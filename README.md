@@ -8,7 +8,7 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_4000/playlist.m3u8
 https://hlsa-akm.douyucdn.cn/live/323876rHkdAgVl2T_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",747764
-https://hlsa-akm.douyucdn.cn/live/747764reiwYpl0AW/playlist.m3u8
+https://hlstct.douyucdn2.cn/dyliveflv1a/747764reiwYpl0AW.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",74374
 https://hls3-akm.douyucdn.cn/live/74374rPCZzw5FYyT/playlist.m3u8
