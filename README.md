@@ -59,11 +59,11 @@ https://hls3-akm.douyucdn.cn/live/2793084rXPxm0aTb/playlist.m3u8
 https://hls1a-akm.douyucdn.cn/live/508118rfasprzBFS/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",1377142
-https://hls3a-akm.douyucdn.cn/live/1377142rUzSL2hvU_900/playlist.m3u8
+https://hlstct.douyucdn2.cn/dyliveflv3/1377142rlnLMEkaL.m3u8?txSecret=6932ebc8013138fd41d8ead170bee76f&txTime=643a038b&token=h5-douyu-0-1377142-8a78fc066d01df055f04c1f2c50c8e73&did=89e12e61c2f684d05fd08c8600051631&origin=tct&vhost=play3
 
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",2436390
-https://hls3-akm.douyucdn.cn/live/2436390rDiv7u99U/playlist.m3u8
+https://hlstct.douyucdn2.cn/dyliveflv3/2436390rfleFeyEB.m3u8?txSecret=b275bdd6c7245373ff6ff336f29cd5a9&txTime=643a02cd&token=h5-douyu-0-2436390-be9d1182d28554f5dc0be7d36ab2ab71&did=89e12e61c2f684d05fd08c8600051631&origin=tct&vhost=play3
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",1735337
 https://hlstct.douyucdn2.cn/dyliveflv3/1735337roatU8XJy.m3u8?txSecret=30eae16821ae6a337530ff44703531e4&txTime=643a01c7&token=h5-douyu-0-1735337-f32c52bef85bec9fee9bfdda056f7f94&did=89e12e61c2f684d05fd08c8600051631&origin=tct&vhost=play3
