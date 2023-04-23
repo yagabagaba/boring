@@ -8,7 +8,10 @@ https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_4000/playlist.m3u8
 https://hlsa-akm.douyucdn.cn/live/323876rHkdAgVl2T_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",747764
-https://hlstct.douyucdn2.cn/dyliveflv1a/747764reiwYpl0AW.m3u8?txSecret=46a4139d6ed682dd4385cc38cbf89e94&txTime=643a5cae&token=h5-douyu-0-747764-e0e3fde602de69cb85b293acfd45fc3c&did=89e12e61c2f684d05fd08c8600051631&origin=tct&vhost=play2t&vhost=play2
+https://hlsa-akm.douyucdn.cn/live/747764reiwYpl0AW_900/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies", 8329254
+https://hlsa-akm.douyucdn.cn/live/8329254rtXvVsj1m/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",74374
 https://hls3-akm.douyucdn.cn/live/74374rPCZzw5FYyT/playlist.m3u8
@@ -20,13 +23,13 @@ https://hlsa-akm.douyucdn.cn/live/122402rK7MO9bXSq_4000/playlist.m3u8
 https://hls3-akm.douyucdn.cn/live/1165374ro6VroJvN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",6140589
-https://hls3-akm.douyucdn.cn/live/6140589rubiWDY5Z_900/playlist.m3u8
+https://hls3-akm.douyucdn.cn/live/6140589rIvjss2b5_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",263824
-https://hls3-akm.douyucdn.cn/live/263824rmYrNxlGQD_900/playlist.m3u8
+https://hls3-akm.douyucdn.cn/live/263824r1ZjiyeFDU_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",96577
-https://hlsa-akm.douyucdn.cn/live/96577r8yie2nrclo_900/playlist.m3u8
+https://hlsa-akm.douyucdn.cn/live/96577roKonaoVkpN_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",9651304
 https://hls3-akm.douyucdn.cn/live/9651304rg5DuwSXS/playlist.m3u8
@@ -35,20 +38,20 @@ https://hls3-akm.douyucdn.cn/live/9651304rg5DuwSXS/playlist.m3u8
 https://hls3a-akm.douyucdn.cn/live/413573rM84PM9WP9/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies", 252802
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies", 252802x
 https://hlsa-akm.douyucdn.cn/live/252802r2JOUYFwzI_900/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",4332
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",4332x
 https://hls1a-akm.douyucdn.cn/live/4332rjg0EOprpAAC_900/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",36337
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",36337x
 https://hls1a-akm.douyucdn.cn/live/36337rppECQPTtFv_900/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",7305938
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",7305938x
 https://hls3a-akm.douyucdn.cn/live/7305938rvJDzoqOH/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",431460
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",431460x
 https://hlsa-akm.douyucdn.cn/live/431460rJhUsuho3P_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",2793084
@@ -56,17 +59,16 @@ https://hls3-akm.douyucdn.cn/live/2793084rXPxm0aTb/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",508118
-https://hls1a-akm.douyucdn.cn/live/508118rfasprzBFS/playlist.m3u8
+https://hls1a-akm.douyucdn.cn/live/508118rusiXgTgWC/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",1377142
-https://hlstct.douyucdn2.cn/dyliveflv3/1377142rlnLMEkaL.m3u8?txSecret=6932ebc8013138fd41d8ead170bee76f&txTime=643a038b&token=h5-douyu-0-1377142-8a78fc066d01df055f04c1f2c50c8e73&did=89e12e61c2f684d05fd08c8600051631&origin=tct&vhost=play3
-
+https://hls1a-akm.douyucdn.cn/live/1377142rRnlpnux3_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",2436390
-https://hlstct.douyucdn2.cn/dyliveflv3/2436390rfleFeyEB.m3u8?txSecret=b275bdd6c7245373ff6ff336f29cd5a9&txTime=643a02cd&token=h5-douyu-0-2436390-be9d1182d28554f5dc0be7d36ab2ab71&did=89e12e61c2f684d05fd08c8600051631&origin=tct&vhost=play3
+https://hls1a-akm.douyucdn.cn/live//2436390reTURUq4y/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",1735337
-https://hlstct.douyucdn2.cn/dyliveflv3/1735337roatU8XJy.m3u8?txSecret=30eae16821ae6a337530ff44703531e4&txTime=643a01c7&token=h5-douyu-0-1735337-f32c52bef85bec9fee9bfdda056f7f94&did=89e12e61c2f684d05fd08c8600051631&origin=tct&vhost=play3
+https://hlsa-akm.douyucdn.cn/live//1735337r0fIsj0KT_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",8770422
 https://hls3-akm.douyucdn.cn/live/8770422rnCGISJE9/playlist.m3u8
