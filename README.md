@@ -1,11 +1,8 @@
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="🎥 Douyu Movies",MOVIES GROUP 1
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",3637778
-https://hlsa-akm.douyucdn.cn/live/3637778raLSXdOdu_1024av1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",323876
-https://hlsa-akm.douyucdn.cn/live/323876r9pZ4MV0eM_900/playlist.m3u8
+https://hlsa-akm.douyucdn.cn/live/323876r9pZ4MV0eM_900/playlist.m3u8?wsAuth=11b5f4ea80f994e6704688d52b93a932&token=web-h5-0-323876-c58c02104b24377484f6d71d83e20f14d46a6020ac5a354f&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=353869548&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",747764
 https://hls1a-akm.douyucdn.cn/live/747764r51t1x5VMY_900/playlist.m3u8
