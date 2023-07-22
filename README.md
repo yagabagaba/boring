@@ -5,7 +5,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://hlsa-akm.douyucdn.cn/live/323876r9pZ4MV0eM_900/playlist.m3u8?wsAuth=11b5f4ea80f994e6704688d52b93a932&token=web-h5-0-323876-c58c02104b24377484f6d71d83e20f14d46a6020ac5a354f&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=353869548&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",747764
-https://hls1a-akm.douyucdn.cn/live/747764r51t1x5VMY_900/playlist.m3u8
+https://hls1a-akm.douyucdn.cn/live/747764r51t1x5VMY_900/playlist.m3u8?wsAuth=eb3dd3ce8de00803747e934580264285&token=web-h5-0-747764-72757a48f7b39f8d5de39fda0e2f1c8aaa7ff9579189039f&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=351452950&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies", 20415
 https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
