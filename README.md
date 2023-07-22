@@ -1,3 +1,45 @@
+#EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/05/film-dungeons-dragons-honor-among-thieves-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", dungeons dragon
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/03947/tyr8g1lbz9vo_,n,h,.urlset/master.m3u8?t=giWIExyFpzgRqQWmjCtpMijXoLqcyngGx2Mr7i1hhQw&s=1690012468&e=43200&f=19736612&srv=30&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2022/12/film-avatar-the-way-of-water-2022-lk21-d21.jpg.webp" group-title="🎥 new Movies", avatar 2
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/04057/qtm0t02ubswi_,n,x,.urlset/master.m3u8?t=mTcFku4QkUoF4PemRFn18MhsLP-NzPATh8guxbjWzGY&s=1690012363&e=43200&f=20286637&srv=24&asn=4788&sp=2500
+
+#EXTINF:-1 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/06/film-spongebob-squarepants-presents-the-tidal-zone-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", spongeobob tidal zone
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/04025/d8y6jlbwcchh_,n,x,.urlset/master.m3u8?t=rJDuRpAqV7C1prMHCh85jRpy3b41fXPnlfFzi4-UQOc&s=1690012272&e=43200&f=20125987&srv=21&asn=4788&sp=2500
+
+#EXTINF:-1 tvg-logo="https://s4.makimbo.xyz/wp-content/uploads/2023/02/film-die-hart-the-movie-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", die hart
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/03023/f1xrccj14xsa_,n,x,.urlset/master.m3u8?t=X56qUdwkSXv9Z2H0cZjp_OKpvLSo_bLiKhxLFa8vSWQ&s=1690012142&e=43200&f=15116399&srv=26&asn=4788&sp=2500
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/05/film-didi-friends-the-movie-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", didi friends
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/03799/bdhokenre8wd_,n,h,.urlset/master.m3u8?t=g2Ff3r3BQzT1opIu--urvDJ3ZWoLcIntLi5Srqwi8kw&s=1690011686&e=43200&f=18995915&srv=13&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2023/02/film-ant-man-and-the-wasp-quantumania-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", ant man 3
+https://be4235.rcr32.ams02.cdn112.com/hls2/01/03797/zrqw7vpcfva8_,n,h,.urlset/master.m3u8?t=J2GJ-eJ5urRJ1OTHyUXvGWryKq03CqvNuHdbkJ8xB7A&s=1690011583&e=43200&f=18986732&srv=21&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", shazam 2
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/03836/dmpp88rte13a_,n,h,.urlset/master.m3u8?t=gsE5OKuj1mpDVeDTWW848jTp6LswYLYe38PBIXIGO8U&s=1690011491&e=43200&f=19182690&srv=24&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s0.makimbo.xyz/wp-content/uploads/2023/06/film-extraction-2-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", extraction 2
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/04041/26oo2wxvw6t9_,n,h,.urlset/master.m3u8?t=7eA3dLq7H7H67KZpE0TBHYdybFz5A1yA5bauxS-KWew&s=1690011261&e=43200&f=20207844&srv=23&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/04/film-the-super-mario-bros-movie-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", mario movie
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/03936/p8w81f5cq6bj_,n,h,.urlset/master.m3u8?t=HgDHdkBE2QbpY27JPGQ5lIawm4zR9G3S_jNVs8qMypM&s=1690011029&e=43200&f=19680122&srv=23&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", guardian of galaxy 3
+https://be2719.rcr22.ams01.cdn112.com/hls2/01/04157/gd5bs4wpxb7m_,n,x,.urlset/master.m3u8?t=6ysFtwsuAwLLGDimMUJjtUMlmVWWc6hHBM35jFMrnM8&s=1690010698&e=43200&f=20785513&srv=23&asn=4788&sp=2500
+
+#EXTINF:-1 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", john wick 4
+https://be7713.rcr82.waw05.cdn112.com/hls2/01/03974/y9urtyqdi1dn_,n,h,.urlset/master.m3u8?t=4RpVUFOPbMljM1v75F6-nBZX0MMHGiunZbzzSmvcwzc&s=1690010569&e=43200&f=19872647&srv=23&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",fast x
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/03995/mmtk4t5k996d_,n,h,.urlset/master.m3u8?t=DHP_Bcr7v3hY-vvoSUs6vf0H2bK-i9_egFM3qSYbEa8&s=1690010064&e=43200&f=19976491&srv=15&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",transformers beast
+https://be4242.rcr52.ams03.cdn112.com/hls2/01/04181/vod6xw0lid7m_,n,h,.urlset/master.m3u8?t=kqNV_hL8yhK7iq48kBoqFiZ8xBnQg6QLMWYK1FqBeTo&s=1690009449&e=43200&f=20906881&srv=22&asn=4788&sp=2000
+
+#EXTINF:-1 tvg-logo="https://s4.makimbo.xyz/wp-content/uploads/2023/06/film-the-flash-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",the flash
+https://be4235.rcr32.ams02.cdn112.com/hls2/03/04213/jg8efwa6gotm_n/index-v1-a1.m3u8?t=GsoMbYuCnNbkf7FNiZ1NxmKv7gb6773JQv_g2Fj5kTk&s=1690007521&e=43200&f=21066337&srv=30&asn=4788&sp=2500
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="🎥 Douyu Movies",MOVIES GROUP 1
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
