@@ -11,7 +11,7 @@ https://hlsa-akm.douyucdn.cn/live/323876r9pZ4MV0eM_900/playlist.m3u8
 https://hls1a-akm.douyucdn.cn/live/747764r51t1x5VMY_900/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies", 20415
-https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8
+https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 Douyu Movies",74374
 https://hls3-akm.douyucdn.cn/live/74374rew2XG4hgXu_900/playlist.m3u8
