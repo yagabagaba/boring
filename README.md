@@ -38,7 +38,7 @@ https://be4242.rcr52.ams03.cdn112.com/hls2/01/03995/mmtk4t5k996d_,n,h,.urlset/ma
 https://be4242.rcr52.ams03.cdn112.com/hls2/01/04181/vod6xw0lid7m_,n,h,.urlset/master.m3u8?t=kqNV_hL8yhK7iq48kBoqFiZ8xBnQg6QLMWYK1FqBeTo&s=1690009449&e=43200&f=20906881&srv=22&asn=4788&sp=2000
 
 #EXTINF:-1 tvg-logo="https://s4.makimbo.xyz/wp-content/uploads/2023/06/film-the-flash-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",the flash
-https://be4235.rcr32.ams02.cdn112.com/hls2/03/04213/jg8efwa6gotm_n/index-v1-a1.m3u8?t=GsoMbYuCnNbkf7FNiZ1NxmKv7gb6773JQv_g2Fj5kTk&s=1690007521&e=43200&f=21066337&srv=30&asn=4788&sp=2500
+https://eerht.artdesigncdn.net/_v10/bbac044e08b7d5440ba53cb4860506893a3fc2850f77a17efb72ca422d144d4ac21100a318c0e3d361172486dfceae24bde7b2cd3c30f8a733e6b7c4f619418ebf532292ef7cf1ddb75edb69427654c2cc28f1526a0fe974a7bcff0718b251250533918040a85231eab2fc88d89d04e26db925bfd349d9c6b3e2afa36b682f0ce2c7387f7f258db18e0b30990adf74bd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="🎥 Douyu Movies",MOVIES GROUP 1
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
