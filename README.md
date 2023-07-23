@@ -23,7 +23,7 @@ https://be2719.rcr22.ams01.cdn112.com/hls2/01/03836/dmpp88rte13a_,n,h,.urlset/ma
 https://be4242.rcr52.ams03.cdn112.com/hls2/01/04041/26oo2wxvw6t9_,n,h,.urlset/master.m3u8?t=7eA3dLq7H7H67KZpE0TBHYdybFz5A1yA5bauxS-KWew&s=1690011261&e=43200&f=20207844&srv=23&asn=4788&sp=2000
 
 #EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/04/film-the-super-mario-bros-movie-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", mario movie
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/03936/p8w81f5cq6bj_,n,h,.urlset/master.m3u8?t=HgDHdkBE2QbpY27JPGQ5lIawm4zR9G3S_jNVs8qMypM&s=1690011029&e=43200&f=19680122&srv=23&asn=4788&sp=2000
+https://xis.fifteennet.com/_v10/c83527cf3b73ecffcf91595b165e137b7bf0f0ff2cf816d8667161afea2370e71690359b5976a5dc5c03de31f949fb1bcd77dc909f156bf54069c687bb27a06c6fbe5727271ea058720806c872bfed58c6818d13b3384fc1bd3f07f1ed0b1c7ebe59af37d30b90354976868e4622633eb33a71c0c6166b6969fb410ce23626dbaed3398b6d0c8286a5333a48c7d6a7e5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", guardian of galaxy 3
 https://be2719.rcr22.ams01.cdn112.com/hls2/01/04157/gd5bs4wpxb7m_,n,x,.urlset/master.m3u8?t=6ysFtwsuAwLLGDimMUJjtUMlmVWWc6hHBM35jFMrnM8&s=1690010698&e=43200&f=20785513&srv=23&asn=4788&sp=2500
