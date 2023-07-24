@@ -32,7 +32,7 @@ https://be2719.rcr22.ams01.cdn112.com/hls2/01/04157/gd5bs4wpxb7m_,n,x,.urlset/ma
 https://be7713.rcr82.waw05.cdn112.com/hls2/01/03974/y9urtyqdi1dn_,n,h,.urlset/master.m3u8?t=4RpVUFOPbMljM1v75F6-nBZX0MMHGiunZbzzSmvcwzc&s=1690010569&e=43200&f=19872647&srv=23&asn=4788&sp=2000
 
 #EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",fast x
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/03995/mmtk4t5k996d_,n,h,.urlset/master.m3u8?t=DHP_Bcr7v3hY-vvoSUs6vf0H2bK-i9_egFM3qSYbEa8&s=1690010064&e=43200&f=19976491&srv=15&asn=4788&sp=2000
+https://rouf.magnewscontent.org/_v10/0828923553299ee108d121ada62762bf4ad674901cae2190a4faaae1e89f8986e27ebc7aa79c17535cd3d89d192d6a996c37828c2dedef8f8c0a83cda1a32f78e1fbf254407e786a81a06f148488924c129f0aba947c72a3806d3dcce824f1d12e7131d46c9782b900f53fa33bbbce54f237c932a593a16e8f99a9deb5508fe20c7ea45f28ffc7d07fb79e0d166d9247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",transformers beast
 https://be4242.rcr52.ams03.cdn112.com/hls2/01/04181/vod6xw0lid7m_,n,h,.urlset/master.m3u8?t=kqNV_hL8yhK7iq48kBoqFiZ8xBnQg6QLMWYK1FqBeTo&s=1690009449&e=43200&f=20906881&srv=22&asn=4788&sp=2000
