@@ -26,7 +26,7 @@ https://be4242.rcr52.ams03.cdn112.com/hls2/01/04041/26oo2wxvw6t9_,n,h,.urlset/ma
 https://xis.fifteennet.com/_v10/c83527cf3b73ecffcf91595b165e137b7bf0f0ff2cf816d8667161afea2370e71690359b5976a5dc5c03de31f949fb1bcd77dc909f156bf54069c687bb27a06c6fbe5727271ea058720806c872bfed58c6818d13b3384fc1bd3f07f1ed0b1c7ebe59af37d30b90354976868e4622633eb33a71c0c6166b6969fb410ce23626dbaed3398b6d0c8286a5333a48c7d6a7e5/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/05/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", guardian of galaxy 3
-https://be2719.rcr22.ams01.cdn112.com/hls2/01/04157/gd5bs4wpxb7m_,n,x,.urlset/master.m3u8?t=6ysFtwsuAwLLGDimMUJjtUMlmVWWc6hHBM35jFMrnM8&s=1690010698&e=43200&f=20785513&srv=23&asn=4788&sp=2500
+https://neves.jeffycontent.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", john wick 4
 https://be7713.rcr82.waw05.cdn112.com/hls2/01/03974/y9urtyqdi1dn_,n,h,.urlset/master.m3u8?t=4RpVUFOPbMljM1v75F6-nBZX0MMHGiunZbzzSmvcwzc&s=1690010569&e=43200&f=19872647&srv=23&asn=4788&sp=2000
