@@ -1,26 +1,25 @@
-#EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/05/film-dungeons-dragons-honor-among-thieves-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", dungeons dragon
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/03947/tyr8g1lbz9vo_,n,h,.urlset/master.m3u8?t=giWIExyFpzgRqQWmjCtpMijXoLqcyngGx2Mr7i1hhQw&s=1690012468&e=43200&f=19736612&srv=30&asn=4788&sp=2000
+#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/fc/7d/fc7de6b957d0dfb5f3b719c812093766/fc7de6b957d0dfb5f3b719c812093766.jpg" group-title="🎥 new Movies", mermaid
+https://rouf.magnewscontent.org/_v10/165ffb574f2d1baf64d5e0a7fabb9961f40581c41058d15d4d9a07b766853eef6560ec5d1b88da900ca632875404ea0413ed9f72a6ec06ce086348ebe03f97fd4b276180a6099d4bf8a0eadef73146e150534fcbe86f0419b09feb05136aad24ea31883549e52eb3abfb86c1dea4b106867b165a20f55ead06722cd2dcaf5e551f68816194d5c8a1661a455c923b033d/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/e2/02/e202f50399e893e25922555a4332d8ee/e202f50399e893e25922555a4332d8ee.jpg" group-title="🎥 new Movies", resident evil death island
+https://owt.webarchivecdn.com/_v10/08504c2fc4df61ce959c642fef3ac1b05ab8e3ddcf073f28e24ad9c6b180a4f63159ed031bed6a12e852f73f2950ac5fe12cff2accf23dc447bd4220187f88f9edbf0d6a3ee77fd9834427a9a87f46446e14980523467cbde0a9a87660d7b0a23e4cb8682ca14832f709d97ff59f0466fae15c8c057cccfe0e4e331e57c703f5aefb3aba25d4b39d6fa64b07408cf2d8/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2022/12/film-avatar-the-way-of-water-2022-lk21-d21.jpg.webp" group-title="🎥 new Movies", avatar 2
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/04057/qtm0t02ubswi_,n,x,.urlset/master.m3u8?t=mTcFku4QkUoF4PemRFn18MhsLP-NzPATh8guxbjWzGY&s=1690012363&e=43200&f=20286637&srv=24&asn=4788&sp=2500
+https://owt.webarchivecdn.com/_v10/8db9371661b8973f384ed23cda52c2c6376cb9e89640efb9e5fbe13eb02382007e96ba8006c317b2f0e8db77eb08be5375e585a11b650a560d89cbcb0311ae5176f24b3e01bb631e074030ece69bc4cee26588ccc76896c87198aaef269e75c79729c5e7ec1edc8361508b7b32055a30c4814d9a47d97a831ccdd698602cd69343267fb17cc3b9782801692bdb016b63/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/06/film-spongebob-squarepants-presents-the-tidal-zone-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", spongeobob tidal zone
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/04025/d8y6jlbwcchh_,n,x,.urlset/master.m3u8?t=rJDuRpAqV7C1prMHCh85jRpy3b41fXPnlfFzi4-UQOc&s=1690012272&e=43200&f=20125987&srv=21&asn=4788&sp=2500
+https://rouf.magnewscontent.org/_v10/60bbc05b263861c3ef35c5066eae71dfc84f8114f3c7b8bcd2ede3fc0ed5ed432a52d960f0ac65c28a74d149eefa8f8e44015cb6b9126ab4b2121962761887215ab29c52a3db54e52cac3e921316f949095d591214c3259fff7decdd88c1d46a5f6a6724881aa6831d18b220a554123aee1cbc97894da6659b6cf5e753ac9343e29c83e5fcf3242107185d4858f8e3f5/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://s4.makimbo.xyz/wp-content/uploads/2023/02/film-die-hart-the-movie-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", die hart
-https://be6721.rcr72.waw04.cdn112.com/hls2/01/03023/f1xrccj14xsa_,n,x,.urlset/master.m3u8?t=X56qUdwkSXv9Z2H0cZjp_OKpvLSo_bLiKhxLFa8vSWQ&s=1690012142&e=43200&f=15116399&srv=26&asn=4788&sp=2500
-
-#EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/05/film-didi-friends-the-movie-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", didi friends
-https://be2719.rcr22.ams01.cdn112.com/hls2/01/03799/bdhokenre8wd_,n,h,.urlset/master.m3u8?t=g2Ff3r3BQzT1opIu--urvDJ3ZWoLcIntLi5Srqwi8kw&s=1690011686&e=43200&f=18995915&srv=13&asn=4788&sp=2000
 
 #EXTINF:-1 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2023/02/film-ant-man-and-the-wasp-quantumania-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", ant man 3
-https://be4235.rcr32.ams02.cdn112.com/hls2/01/03797/zrqw7vpcfva8_,n,h,.urlset/master.m3u8?t=J2GJ-eJ5urRJ1OTHyUXvGWryKq03CqvNuHdbkJ8xB7A&s=1690011583&e=43200&f=18986732&srv=21&asn=4788&sp=2000
+https://owt.webarchivecdn.com/_v10/3d0f8370761d0b460d85960eb3e75f90337d97ac9ab4ce02f9432370731d4bc35485f1c1bd3a8407cb3e255643457023659494b67c51248e3afa9ba5b30d2527533143e85a411cfa92976343d1b4bc289d287724628632c147ca771f119ae0007d183679683584a8dfe772b5928c1e096525b7e3e380adf16cb4ae0521776f30131b7f0972171ec54b70ed8bcfdf147e/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", shazam 2
-https://be2719.rcr22.ams01.cdn112.com/hls2/01/03836/dmpp88rte13a_,n,h,.urlset/master.m3u8?t=gsE5OKuj1mpDVeDTWW848jTp6LswYLYe38PBIXIGO8U&s=1690011491&e=43200&f=19182690&srv=24&asn=4788&sp=2000
+https://neves.jeffycontent.com/_v10/30aea7540b1e0c19d68f5997c8fade3b890743401d0cdd7996fa8e5a79cb1f008d1db9d434eb0940661b1a1be73c31f0784ad579d5e9f1c4188183fc958422b76c437e95cc7c5764aa56ad2052bab926f51f5d2fb1c4ffe1a2845eef788b6ad8e20568b127ac36bbc735a64b409cb6abbce5f26b95598435ce74298da8b50dda19bf76e885810e85b983a5ab8bb03c03/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s0.makimbo.xyz/wp-content/uploads/2023/06/film-extraction-2-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", extraction 2
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/04041/26oo2wxvw6t9_,n,h,.urlset/master.m3u8?t=7eA3dLq7H7H67KZpE0TBHYdybFz5A1yA5bauxS-KWew&s=1690011261&e=43200&f=20207844&srv=23&asn=4788&sp=2000
+https://rouf.magnewscontent.org/_v10/626933c67997d21fb7fa76121688bc295074aafc9e175f64f1ac89aba3281d5a837bbb10b319a4e0746d5dc3e8757f30687d1999363d9f37e0c5ca3268d0845167e9a465183074103de230a21cb1a3501e2c050a77e127afa5da84fbd64f28f74bcdc878af89e26e59938ac7ad5dcf29227f3807aa9be1379c42aeea70047a37c7a72a77f2caa59e7b10a6092681feb0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/04/film-the-super-mario-bros-movie-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", mario movie
 https://xis.fifteennet.com/_v10/c83527cf3b73ecffcf91595b165e137b7bf0f0ff2cf816d8667161afea2370e71690359b5976a5dc5c03de31f949fb1bcd77dc909f156bf54069c687bb27a06c6fbe5727271ea058720806c872bfed58c6818d13b3384fc1bd3f07f1ed0b1c7ebe59af37d30b90354976868e4622633eb33a71c0c6166b6969fb410ce23626dbaed3398b6d0c8286a5333a48c7d6a7e5/playlist.m3u8
@@ -29,18 +28,18 @@ https://xis.fifteennet.com/_v10/c83527cf3b73ecffcf91595b165e137b7bf0f0ff2cf816d8
 https://neves.jeffycontent.com/_v10/eb35769085af96f1ef48cf20a5fc19a5199736b3ca4e1c0b5eb5147cffdf827d6b90f79d02061163cceca17bfa1872a4ccd1af7fa02c1d400e7ac4f0d658e7e29e17535f9e2705d376697eed2a751cce7f1fdb1fd4a37c17cdf523508aa505abb5de1a7cdc8bf830317e44f8f4cbc60049fdf9dac1bfe3ab7b993a75ec4e54d34a13faa9112cd5af5f41bf6428fa9dbe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/03/film-john-wick-chapter-4-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies", john wick 4
-https://be7713.rcr82.waw05.cdn112.com/hls2/01/03974/y9urtyqdi1dn_,n,h,.urlset/master.m3u8?t=4RpVUFOPbMljM1v75F6-nBZX0MMHGiunZbzzSmvcwzc&s=1690010569&e=43200&f=19872647&srv=23&asn=4788&sp=2000
+https://eerht.artdesigncdn.net/_v10/e87f231b367d9120fce53210c6d4d7e55a7a54764ca17a4b83ba8d354c8220d8953ba39d5a7662d491056ecb24e31a1a23f4e78ea5d6509da4265afff940c5e95ba23657fc4930446412a8215d3db8f66bc6903855bdc844bcebb764a0fa68a75fe57a372e3939ca4fd096a00951a80999881bdc120edfea0a2d23320ab621a53359c49fb46c00b9934b2304f5b4e639/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.makimbo.xyz/wp-content/uploads/2023/05/film-fast-x-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",fast x
 https://rouf.magnewscontent.org/_v10/0828923553299ee108d121ada62762bf4ad674901cae2190a4faaae1e89f8986e27ebc7aa79c17535cd3d89d192d6a996c37828c2dedef8f8c0a83cda1a32f78e1fbf254407e786a81a06f148488924c129f0aba947c72a3806d3dcce824f1d12e7131d46c9782b900f53fa33bbbce54f237c932a593a16e8f99a9deb5508fe20c7ea45f28ffc7d07fb79e0d166d9247/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2023/06/film-transformers-rise-of-the-beasts-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",transformers beast
-https://be4242.rcr52.ams03.cdn112.com/hls2/01/04181/vod6xw0lid7m_,n,h,.urlset/master.m3u8?t=kqNV_hL8yhK7iq48kBoqFiZ8xBnQg6QLMWYK1FqBeTo&s=1690009449&e=43200&f=20906881&srv=22&asn=4788&sp=2000
+https://neves.jeffycontent.com/_v10/59eaf9b9667212c820f71f4eaf565903a84eff7578e58929a7cfd36c36294ce25e58b736036c5ace9d9aba3aac9db7851dc7990a682ddcf1e2a3ba8e521928ca9824a718d91ac75447237a526b4253a2bf4c4d748698717d3e087f36545cff12b5d71cb5d40b63f96877d818b97390cfb35f55e20bb59e1aee0a3ff4104ec7d9bb57eb1ff409d969dd5c5105c1c37663/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://s4.makimbo.xyz/wp-content/uploads/2023/06/film-the-flash-2023-lk21-d21.jpg.webp" group-title="🎥 new Movies",the flash
 https://eerht.artdesigncdn.net/_v10/bbac044e08b7d5440ba53cb4860506893a3fc2850f77a17efb72ca422d144d4ac21100a318c0e3d361172486dfceae24bde7b2cd3c30f8a733e6b7c4f619418ebf532292ef7cf1ddb75edb69427654c2cc28f1526a0fe974a7bcff0718b251250533918040a85231eab2fc88d89d04e26db925bfd349d9c6b3e2afa36b682f0ce2c7387f7f258db18e0b30990adf74bd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="🎥 Douyu Movies",MOVIES GROUP 1
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="🎥 free Movies",MOVIES GROUP 1
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",323876
@@ -77,9 +76,6 @@ https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="starmovies.in" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png" group-title="🎥 free Movies",hi-yah
 https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WatchItScream.us" tvg-country="US" tvg-language="English" tvg-logo="http://cinedigm.com/wp-content/uploads/2021/08/BloodyDisgustingtv.png" group-title="🎥 free Movies",bloodydisgusting
-https://bloodydisgusting-localnow.cinedigm.com/playlist.m3u8
 
 #EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Fear This!" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60417731dc00887af0275acb" group-title="🎥 free Movies",Fear This!
 https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
