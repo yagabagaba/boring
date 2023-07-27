@@ -58,7 +58,7 @@ https://hls3a-akm.douyucdn.cn/live/263824rt8idINSXe_900/playlist.m3u8?wsAuth=9c3
 https://hlsa-akm.douyucdn.cn/live/252802rq770NOtjI_900/playlist.m3u8?wsAuth=94f01978c6e6d7dceb17135fa79845bd&token=web-h5-0-252802-536492a84fc6fe0c56808ec16e014464e8d9cea5076839d4&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=356082042&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",4332
-https://hlsa-akm.douyucdn.cn/live/4332rxDuqtoI3MsS_900/playlist.m3u8?wsAuth=b9046b07b08fd48f18a7bbcd3f6eb8e1&token=web-h5-0-4332-a25e54b4f06502c186ba6cdfc412579225c175bbe2927650&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=356081965&origin=tct&mix=0&isp=
+https://openhls-tct.douyucdn2.cn/dyliveflv1/4332rUz8moufmSoo.m3u8?txSecret=cb943b48ad78aa09acdf072545c29ec9&txTime=64c275c1&token=h5-douyu-0-4332-2c1bd422fe136a31fd70886d9bf9b96d&did=bc178c1070c420e129dd01bb000416p1&origin=tct&vhost=play1&sid=357373120
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="🎥 free Movies",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
