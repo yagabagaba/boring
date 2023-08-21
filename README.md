@@ -1,3 +1,9 @@
+#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/a7/e7/a7e7397be556ed5939faccc171dae24c/a7e7397be556ed5939faccc171dae24c.jpg" group-title="🎥 new Movies", heart of stone
+https://eno.dokicloud.one/_v10/91d86600900a2adc27bda96fd176374bc07e6f50d5f50ef5c64bce60abdd50bd8048f87e23b2f1d542c1545e7e7c5f53d43ffcf5ea6df2690a7870d37ad31447656c831d742d5f84fb7e282c5ca4e4488fbc7c9ecac4992c40afeb0968f6ba44c2629d81a9cc391877ead45f94f88aa2b1b68b4e959964a652028c73a0afc88df079a310690b921fe0a1478d1f2a3a22/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/67/7f/677f8af5b3641ba09964277253a36761/677f8af5b3641ba09964277253a36761.jpg" group-title="🎥 new Movies", spiderverse2
+https://xis.fifteennet.com/_v10/b21df829a5e1acce9aef086b5b4786654bf01096e36b884be7652b7c347903bf782ba261a1acccd5edd37adde922f87c86e732db6170466ae839e017ff6ee4df0207fd68920a291239505039adef04bab9b6d118abea738cbfe86e366a15b0cc57d210a0427b839e4b3599edf749f8df77c6e11000a0eb433439f52ae51b66e10b7bd9efef1993b8c3e73a6f98210603/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/fc/7d/fc7de6b957d0dfb5f3b719c812093766/fc7de6b957d0dfb5f3b719c812093766.jpg" group-title="🎥 new Movies", mermaid
 https://rouf.magnewscontent.org/_v10/165ffb574f2d1baf64d5e0a7fabb9961f40581c41058d15d4d9a07b766853eef6560ec5d1b88da900ca632875404ea0413ed9f72a6ec06ce086348ebe03f97fd4b276180a6099d4bf8a0eadef73146e150534fcbe86f0419b09feb05136aad24ea31883549e52eb3abfb86c1dea4b106867b165a20f55ead06722cd2dcaf5e551f68816194d5c8a1661a455c923b033d/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://cc.2cdns.com/87/e8/87e8a1ec8fc26f7510839da234d37b4a/eng-3.vtt
@@ -56,7 +62,7 @@ https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fd
 https://hls3a-akm.douyucdn.cn/live/263824rt8idINSXe_900/playlist.m3u8?wsAuth=9c322c273d6af0196979de46726ade96&token=web-h5-0-263824-09ca092493db15d21f37c9e39a36474e7eb8cc9fd8f2d9e6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=356065125&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 252802
-https://hlsa-akm.douyucdn.cn/live/252802rRHxsTULEm_900/playlist.m3u8?wsAuth=4c23e0e01df2b31092e07efd126b500d&token=web-cph-0-252802-536492a84fc6fe0c4918831509f000d766170f1babfc67e2&logo=0&expire=0&did=2e28cc5e2a654437c6036d1100011601&pt=2&st=0&sid=358360299&origin=tct&mix=0&isp=&v=220120230805&did=2e28cc5e2a654437c6036d1100011601&tt=1691202388&sign=1ce0ec39ffc2a3af9df8373e766a1e1b&rate=-1&ver=Douyu_223080405&iar=1&ive=1&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
+https://hlsa-akm.douyucdn.cn/live/252802rZIge14SYq_4000/playlist.m3u8?wsAuth=e99f2850f0a5692c8209ebcfa773b0a1&token=web-h5-0-252802-536492a84fc6fe0c9dd3c7b3368c4841f8efe5865d872b51&logo=0&expire=0&did=7e405b47739b0c46b5ce08b300051601&ver=Douyu_222082905&pt=2&st=0&sid=359119204&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",4332
 https://hlsa-akm.douyucdn.cn/live/4332ruBI4JdzWE7B_900/playlist.m3u8?wsAuth=9b00c31d04c7ac909a3e3112545853a2&token=web-cph-0-4332-a25e54b4f06502c1dd7cad84e55ed707550002e628a9e0a8&logo=0&expire=0&did=2e28cc5e2a654437c6036d1100011601&pt=2&st=0&sid=357907666&origin=tct&mix=0&isp=&v=220120230805&did=2e28cc5e2a654437c6036d1100011601&tt=1691202536&sign=7fe4a6811217a24e0d1f7d3a2170440a&rate=-1&ver=Douyu_223080405&iar=1&ive=1&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
