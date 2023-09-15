@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/67/7f/677f8af5b3641ba09964277253a36761/677f8af5b3641ba09964277253a36761.jpg" group-title="🎥 new Movies", barbie
-https://ss304.filesfarm.com/stream/6/AC/gpSACpDSFqZqKU9ucTYOLvJvc4LEZq3kMCD/master.m3u8
+https://d03.litvp.com/data/gpSACpDSFqZqKU9ucTYOLvJvc4LEZq3kMCD480.mp4
 
 #EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/a7/e7/a7e7397be556ed5939faccc171dae24c/a7e7397be556ed5939faccc171dae24c.jpg" group-title="🎥 new Movies", heart of stone
 https://eno.dokicloud.one/_v10/91d86600900a2adc27bda96fd176374bc07e6f50d5f50ef5c64bce60abdd50bd8048f87e23b2f1d542c1545e7e7c5f53d43ffcf5ea6df2690a7870d37ad31447656c831d742d5f84fb7e282c5ca4e4488fbc7c9ecac4992c40afeb0968f6ba44c2629d81a9cc391877ead45f94f88aa2b1b68b4e959964a652028c73a0afc88df079a310690b921fe0a1478d1f2a3a22/playlist.m3u8
