@@ -56,7 +56,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 https://hlsa-akm.douyucdn.cn/live/323876rHTfO0rip7_900/playlist.m3u8?wsAuth=7245fafd5dd6c095e308ad2e12b3286a&token=web-cph-0-323876-c58c02104b243774d539c751faba7409e1bbb5e26af612a6&logo=0&expire=0&did=2e28cc5e2a654437c6036d1100011601&pt=2&st=0&sid=358385359&origin=tct&mix=0&isp=&v=220120230805&did=2e28cc5e2a654437c6036d1100011601&tt=1691201971&sign=88a593e3b2dc1347732f114e04f76db6&rate=-1&ver=Douyu_223080405&iar=1&ive=1&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",747764
-https://hls1a-akm.douyucdn.cn/live/747764r04EoSwRdV_900/playlist.m3u8?wsAuth=8cc6a159cd6a7adad4ec7c94e23ffe20&token=web-cph-0-747764-72757a48f7b39f8d71e10c1daf378a15386eda8b37bfc509&logo=0&expire=0&did=2e28cc5e2a654437c6036d1100011601&pt=2&st=0&sid=357609650&origin=tct&mix=0&isp=&v=220120230805&did=2e28cc5e2a654437c6036d1100011601&tt=1691202114&sign=91bd07895237d378909a8b996aee09e3&rate=-1&ver=Douyu_223080405&iar=1&ive=1&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
+https://hls1a-akm.douyucdn.cn/live/747764rzda0AlkNS_900/playlist.m3u8?wsAuth=40e276f5f431c1f670afc597b8fed90b&token=web-h5-0-747764-72757a48f7b39f8d79f0bb2f259d2569a0d11ce711db5a2e&logo=0&expire=0&did=7d18e0560357638026d93b5800081601&ver=Douyu_222082905&pt=2&st=0&sid=362818595&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 20415
 https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
@@ -65,7 +65,7 @@ https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fd
 https://hls3a-akm.douyucdn.cn/live/263824rt8idINSXe_900/playlist.m3u8?wsAuth=9c322c273d6af0196979de46726ade96&token=web-h5-0-263824-09ca092493db15d21f37c9e39a36474e7eb8cc9fd8f2d9e6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=356065125&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 252802
-https://hlsa-akm.douyucdn.cn/live/252802rZIge14SYq_4000/playlist.m3u8?wsAuth=e99f2850f0a5692c8209ebcfa773b0a1&token=web-h5-0-252802-536492a84fc6fe0c9dd3c7b3368c4841f8efe5865d872b51&logo=0&expire=0&did=7e405b47739b0c46b5ce08b300051601&ver=Douyu_222082905&pt=2&st=0&sid=359119204&origin=tct&mix=0&isp=
+https://hlsa-akm.douyucdn.cn/live/252802rV9gITUjL6_900/playlist.m3u8?wsAuth=8c58a08ae8d89107185990c9d7d081dc&token=web-h5-0-252802-536492a84fc6fe0c994cee3923bdca5cc53fe2740c291069&logo=0&expire=0&did=7d18e0560357638026d93b5800081601&ver=Douyu_222082905&pt=2&st=0&sid=361949919&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",4332
 https://hlsa-akm.douyucdn.cn/live/4332ruBI4JdzWE7B_900/playlist.m3u8?wsAuth=9b00c31d04c7ac909a3e3112545853a2&token=web-cph-0-4332-a25e54b4f06502c1dd7cad84e55ed707550002e628a9e0a8&logo=0&expire=0&did=2e28cc5e2a654437c6036d1100011601&pt=2&st=0&sid=357907666&origin=tct&mix=0&isp=&v=220120230805&did=2e28cc5e2a654437c6036d1100011601&tt=1691202536&sign=7fe4a6811217a24e0d1f7d3a2170440a&rate=-1&ver=Douyu_223080405&iar=1&ive=1&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
@@ -124,16 +124,16 @@ https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="🎥 free Movies",CineLife (1080p)
-https://dai.google.com/linear/hls/event/PFJ1Jhd6SsSMcu3qq86wzQ/master.m3u8
+https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Crackle.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="🎥 free Movies",Crackle (720p)
 https://crackle-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="🎥 free Movies",24 Hour Free Movies
-https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=_KdxxdFNyjc6gPooy6bE&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="🎥 free Movies",bloodydisgusting
+https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="🎥 free Movies",STIRR Cinehouse (720p)
-https://dai.google.com/linear/hls/event/28oUp4GcQ-u49U4_jjC4Iw/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="🎥 free Movies",Brat tv
+https://brat-tcl.amagi.tv/playlist.m3u8
 
 
 
