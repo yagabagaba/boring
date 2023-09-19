@@ -1,5 +1,14 @@
-#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/67/7f/677f8af5b3641ba09964277253a36761/677f8af5b3641ba09964277253a36761.jpg" group-title="🎥 new Movies", mutant mayhem
-https://twoseven.xyz/a1i_fLMbAL?referral=Sdz6tKPQNq
+#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/a0/ca/a0ca9ad9615f50ad71a2ac0f521c8db3/a0ca9ad9615f50ad71a2ac0f521c8db3.jpg" group-title="🎥 new Movies", retribution
+https://rouf.magnewscontent.org/_v10/10217f2f7f69f8822f91f57775d9d9d34560c140c3587fc5a5dfd9ef135c42bf3a4b6e989160ca095c5b580793f4ff7c079bde0c492a17da5c7d33c18a0b0864930811c54a4a96eec4e8cc23d9ce4169620f1aee95186923cd7f7f5eef4d844d9b0e5d089ebb7d70f05c000ada6be5960ac5789498e0a7665c4052fd83e9b3adca33756afcd3aa0339950fe349dc7071/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/08/2f/082f965e49698aa881adb68a83add432/082f965e49698aa881adb68a83add432.jpg" group-title="🎥 new Movies", indiana jones 2023
+https://evif.onthecloudcdn.com/_v10/1aac0363793c1b6a00a77e45055209b6c20a2ffa931803be3a887f52d4c91c01590eea0dc346c0a76901feed2335b0e7ce8a1f8d5f27b784517a7d110cdfedf11f5e34e758430b6b5e8538c23d0b52d53d5a0eee7b0db55f7f119e3fce7eb68adde3ef98c07e9cad768158111a2abd204b6218ea0ca5407430c55b7c243af1d86c85e58c47e27f4a935b3003b1f27ad3/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/bf/02/bf0202ada9560bf52b454b74fdbf794a/bf0202ada9560bf52b454b74fdbf794a.jpg" group-title="🎥 new Movies", meg 2
+https://neves.jeffycontent.com/_v10/7288793d15952a78eba81b3d0ce9526eacc626b6761ad70d2b400af74ef589fe22cbd6107cd4bb933c75c0a75e5039a8975a46ef4bf4d8e4b640d9f03783c5db155f63d09da132d8af32108979c243c2007fd84d2599ca34b5fe2ad9610573183b082b77edf2ca7c390a59262d150d3642bf1ad587d62555027b4df533f28c9fc970f6d660c691deb4e8d01a6f4f95d9/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/8e/d3/8ed3d05bf1a9f8738355d5b16a22b4d4/8ed3d05bf1a9f8738355d5b16a22b4d4.jpg" group-title="🎥 new Movies", blue beetle
+https://rouf.magnewscontent.org/_v10/39a4c82152ca074c8b8718b39924e5ed5c01b98ee8595bb74d049c1d2d688861b9cbf14613d1b4c9154f6c3a75955e183d96d1d26cc0561b1ca04a24710b1f388e26a250579d954530f7bae878583e7c849b3f26312fb3407659966a52ee46d6f4553f7bc7879f55009ead81866ac7fedb48b0d54159412e95247ac8663caf37c5637a986154c753ee79fb5709223d92/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/a7/e7/a7e7397be556ed5939faccc171dae24c/a7e7397be556ed5939faccc171dae24c.jpg" group-title="🎥 new Movies", heart of stone
 https://eno.dokicloud.one/_v10/91d86600900a2adc27bda96fd176374bc07e6f50d5f50ef5c64bce60abdd50bd8048f87e23b2f1d542c1545e7e7c5f53d43ffcf5ea6df2690a7870d37ad31447656c831d742d5f84fb7e282c5ca4e4488fbc7c9ecac4992c40afeb0968f6ba44c2629d81a9cc391877ead45f94f88aa2b1b68b4e959964a652028c73a0afc88df079a310690b921fe0a1478d1f2a3a22/playlist.m3u8
