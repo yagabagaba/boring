@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/a0/ca/a0ca9ad9615f50ad71a2ac0f521c8db3/a0ca9ad9615f50ad71a2ac0f521c8db3.jpg" group-title="🎥 new Movies", retribution
-https://videos-cloudfront-usp.jwpsrv.com/65303013_18bf93d433fb222f70df4005dd66294710188a68/site/zWLy8Jer/media/vM7nH0Kl/version/21ETjILN/manifest.ism/manifest-audio_eng=112000-video_eng=550640.m3u8
+https://twoseven.xyz/Q-Xx7Qu9tm
 
 #EXTINF:-1 tvg-logo="https://img.hurawatch.cc/xxrz/250x400/348/08/2f/082f965e49698aa881adb68a83add432/082f965e49698aa881adb68a83add432.jpg" group-title="🎥 new Movies", indiana jones 2023
 https://evif.onthecloudcdn.com/_v10/1aac0363793c1b6a00a77e45055209b6c20a2ffa931803be3a887f52d4c91c01590eea0dc346c0a76901feed2335b0e7ce8a1f8d5f27b784517a7d110cdfedf11f5e34e758430b6b5e8538c23d0b52d53d5a0eee7b0db55f7f119e3fce7eb68adde3ef98c07e9cad768158111a2abd204b6218ea0ca5407430c55b7c243af1d86c85e58c47e27f4a935b3003b1f27ad3/playlist.m3u8
