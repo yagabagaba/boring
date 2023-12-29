@@ -1,8 +1,8 @@
-#EXTINF:-1 tvg-logo="https://www.pngwing.com/en/free-png-yyeps" group-title="🎥 free Movies",TV3
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/V3PGKGbdWAZBpw9fA" group-title="🎥 free Movies",TV3
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",323876
-https://hlsa-akm.douyucdn.cn/live/323876rHTfO0rip7_900/playlist.m3u8?wsAuth=7245fafd5dd6c095e308ad2e12b3286a&token=web-cph-0-323876-c58c02104b243774d539c751faba7409e1bbb5e26af612a6&logo=0&expire=0&did=2e28cc5e2a654437c6036d1100011601&pt=2&st=0&sid=358385359&origin=tct&mix=0&isp=&v=220120230805&did=2e28cc5e2a654437c6036d1100011601&tt=1691201971&sign=88a593e3b2dc1347732f114e04f76db6&rate=-1&ver=Douyu_223080405&iar=1&ive=1&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/9m1p4B4iqMGmGorVA" group-title="🎥 free Movies",tv9
+https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",747764
 https://hls1a-akm.douyucdn.cn/live/747764rzda0AlkNS_900/playlist.m3u8?wsAuth=40e276f5f431c1f670afc597b8fed90b&token=web-h5-0-747764-72757a48f7b39f8d79f0bb2f259d2569a0d11ce711db5a2e&logo=0&expire=0&did=7d18e0560357638026d93b5800081601&ver=Douyu_222082905&pt=2&st=0&sid=362818595&origin=tct&mix=0&isp=
