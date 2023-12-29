@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png" group-title="🎥 free Movies",MOVIES GROUP 1
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/en/free-png-yyeps" group-title="🎥 free Movies",TV3
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",323876
