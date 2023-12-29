@@ -4,8 +4,8 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 #EXTINF:-1 tvg-logo="https://images.app.goo.gl/9m1p4B4iqMGmGorVA" group-title="🎥 free Movies",tv9
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",747764
-https://hls1a-akm.douyucdn.cn/live/747764rzda0AlkNS_900/playlist.m3u8?wsAuth=40e276f5f431c1f670afc597b8fed90b&token=web-h5-0-747764-72757a48f7b39f8d79f0bb2f259d2569a0d11ce711db5a2e&logo=0&expire=0&did=7d18e0560357638026d93b5800081601&ver=Douyu_222082905&pt=2&st=0&sid=362818595&origin=tct&mix=0&isp=
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/qLv8JzBuBGqtJ3Ss6" group-title="🎥 free Movies",tvs
+https://stream.smg.my/live/tvs.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 20415
 https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
