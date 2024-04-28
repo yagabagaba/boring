@@ -1,10 +1,10 @@
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/V3PGKGbdWAZBpw9fA" group-title="🎥 free Movies",TV3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png" group-title="🎥 free Movies",TV3
 https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/9m1p4B4iqMGmGorVA" group-title="🎥 free Movies",tv9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/be/NewlogoTV9_%28Malaysia%29.png" group-title="🎥 free Movies",tv9
 https://live-streams-ssai-01.tonton.com.my/live/2020783a-0303-401a-9c92-b7c3c9108c0b/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.app.goo.gl/qLv8JzBuBGqtJ3Ss6" group-title="🎥 free Movies",tvs
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/TVS_logo_%282024%29.png/640px-TVS_logo_%282024%29.png" group-title="🎥 free Movies",tvs
 https://stream.smg.my/live/tvs.m3u8
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 20415
@@ -17,9 +17,9 @@ https://hls1a-akm.douyucdn.cn/live/747764rydoJQpfjR/playlist.m3u8?wsAuth=7f38752
 https://hlsa-akm.douyucdn.cn/live/323876rIZUxX0E6j/playlist.m3u8?wsAuth=a6f5c27696348d17bbd6e00a72579d64&token=web-cph-0-323876-c58c02104b2437748204a5a6f36b327a3f91539ce13f9253&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&pt=2&st=0&sid=383652844&mcid2=0&origin=tct&mix=0&isp=&v=220120240428&did=b6a22755bafd3570a85f218c00021701&tt=1714262602&sign=9c3b3d11a61273e366c6e28eed62539d&rate=-1&ver=Douyu_224042605&iar=1&ive=0&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",96577
-https://hls1a-akm.douyucdn.cn/live/96577r5gJAUA6t7k/playlist.m3u8?wsAuth=dca14ee7ad8660f43e217033faa38c3d&token=web-cph-0-96577-281bf88a9ebb9addd2adef5451392d00c606034de541214b&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&pt=2&st=0&sid=386602676&mcid2=0&origin=tct&mix=0&isp=&v=220120240428&did=b6a22755bafd3570a85f218c00021701&tt=1714268140&sign=96a34df18fbb2fada3593ff6a3619fab&rate=-1&ver=Douyu_224042605&iar=1&ive=0&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
+https://hlsa-akm.douyucdn.cn/live/4332rDOEnmCz4Klm_900/playlist.m3u8?wsAuth=b0841f720eb01671b803cd957e96f125&token=web-cph-0-4332-a25e54b4f06502c1170dc0fbfb30d4c006bd91b95413d1ee&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&pt=2&st=0&sid=389987724&mcid2=0&origin=tct&mix=0&isp=&v=220120240428&did=b6a22755bafd3570a85f218c00021701&tt=1714272930&sign=196a325385621861c37b6eef745fd2e0&rate=-1&ver=Douyu_224042805&iar=1&ive=1&hevc=0&fa=0
 
-#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="🎥 free Movies",Dubai One (1080p)
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="🎥 free Movies",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.dukun" tvg-logo="https://www.facebook.com/photo/?fbid=510224347781741&set=a.510224321115077&__tn__=%3C" group-title="🎥 free Movies",hollywood action
