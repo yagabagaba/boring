@@ -10,8 +10,8 @@ https://stream.smg.my/live/tvs.m3u8
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 20415
 https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",263824
-https://hls3a-akm.douyucdn.cn/live/263824rt8idINSXe_900/playlist.m3u8?wsAuth=9c322c273d6af0196979de46726ade96&token=web-h5-0-263824-09ca092493db15d21f37c9e39a36474e7eb8cc9fd8f2d9e6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=356065125&origin=tct&mix=0&isp=
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",747764
+https://hls1a-akm.douyucdn.cn/live/747764rydoJQpfjR/playlist.m3u8?wsAuth=7f387523ed4857a250ba07b3d9794155&token=web-cph-0-747764-72757a48f7b39f8d688d8d5a6fdefbf264136ed4e054598d&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&pt=2&st=0&sid=382068911&mcid2=0&origin=tct&mix=0&isp=&v=220120240428&did=b6a22755bafd3570a85f218c00021701&tt=1714262275&sign=896285a2d79840c210d8676ebf69b3d3&rate=-1&ver=Douyu_224042605&iar=1&ive=0&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 252802
 https://hlsa-akm.douyucdn.cn/live/252802rV9gITUjL6_900/playlist.m3u8?wsAuth=8c58a08ae8d89107185990c9d7d081dc&token=web-h5-0-252802-536492a84fc6fe0c994cee3923bdca5cc53fe2740c291069&logo=0&expire=0&did=7d18e0560357638026d93b5800081601&ver=Douyu_222082905&pt=2&st=0&sid=361949919&origin=tct&mix=0&isp=
