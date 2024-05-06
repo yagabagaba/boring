@@ -16,8 +16,8 @@ https://hls1a-akm.douyucdn.cn/live/747764rydoJQpfjR/playlist.m3u8?wsAuth=7f38752
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 323876
 https://hlsa-akm.douyucdn.cn/live/323876rIZUxX0E6j/playlist.m3u8?wsAuth=a6f5c27696348d17bbd6e00a72579d64&token=web-cph-0-323876-c58c02104b2437748204a5a6f36b327a3f91539ce13f9253&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&pt=2&st=0&sid=383652844&mcid2=0&origin=tct&mix=0&isp=&v=220120240428&did=b6a22755bafd3570a85f218c00021701&tt=1714262602&sign=9c3b3d11a61273e366c6e28eed62539d&rate=-1&ver=Douyu_224042605&iar=1&ive=0&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",96577
-https://hlsa-akm.douyucdn.cn/live/4332rDOEnmCz4Klm_900/playlist.m3u8?wsAuth=b0841f720eb01671b803cd957e96f125&token=web-cph-0-4332-a25e54b4f06502c1170dc0fbfb30d4c006bd91b95413d1ee&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&pt=2&st=0&sid=389987724&mcid2=0&origin=tct&mix=0&isp=&v=220120240428&did=b6a22755bafd3570a85f218c00021701&tt=1714272930&sign=196a325385621861c37b6eef745fd2e0&rate=-1&ver=Douyu_224042805&iar=1&ive=1&hevc=0&fa=0
+#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",85894
+https://hlsa-akm.douyucdn.cn/live/85894rmovieChow_4000/playlist.m3u8?wsAuth=b418277277de81ab47acda40f890097e&token=web-h5-0-85894-a3575d938a4aa3096e3c22be17c446cba229917ea3cf80c0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=390603539&mcid2=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="🎥 free Movies",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
