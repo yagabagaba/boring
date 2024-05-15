@@ -47,8 +47,8 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="🎥 free Movies",mytime
-https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="🎥 free Movies",mycinema
+https://live.mana2.my/MyCinemaEurope/index.m3u8?auth_key=1715781549-26d557cb3961466880916175cda41048-0-09669a725c0fa099d6115e587091e6bb&token=1715781549-26d557cb3961466880916175cda41048-0-09669a725c0fa099d6115e587091e6bb
 
 
 #EXTINF:-1 tvg-id="AndflixHD.in" tvg-logo="https://bountyentertainment.com.au/pixeleye/wp-content/uploads/BOUNTYlogo-w.png" group-title="🎥 free Movies",bountyfilms
