@@ -43,13 +43,13 @@ https://hlsa-akm.douyucdn.cn/live/252802rf4dVkkOD6_4000/playlist.m3u8?wsAuth=612
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="🎥 free Movies",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Paramount.dukun" tvg-logo="https://www.facebook.com/photo/?fbid=510224347781741&set=a.510224321115077&__tn__=%3C" group-title="🎥 free Movies",hollywood action
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
+#EXTINF:-1 group-title="🎥 free Movies" tvg-id="SONY MAX" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png", Sony Max
+http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
 
-
-#EXTINF:-1 tvg-id="AndpriveHD.in" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/site-logo.png" group-title="🎥 free Movies",mycinema
-https://live.mana2.my/MyCinemaEurope/index.m3u8?auth_key=1715781549-26d557cb3961466880916175cda41048-0-09669a725c0fa099d6115e587091e6bb&token=1715781549-26d557cb3961466880916175cda41048-0-09669a725c0fa099d6115e587091e6bb
-
+#EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="🎥 free Movies",Sony Pix HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-id="AndflixHD.in" tvg-logo="https://bountyentertainment.com.au/pixeleye/wp-content/uploads/BOUNTYlogo-w.png" group-title="🎥 free Movies",bountyfilms
 https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
