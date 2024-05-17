@@ -134,7 +134,7 @@ https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fd
 https://hls1a-akm.douyucdn.cn/live/747764rXBVmyE1jr_4000/playlist.m3u8?wsAuth=4eb9df58f2a689fbebecb5ce6991c80d&token=web-h5-0-747764-72757a48f7b39f8d50f8922e15bc48e69f2ecdf9b1ba48c7&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391043789&mcid2=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies", 323876
-https://hlsa-akm.douyucdn.cn/live/323876rIZUxX0E6j/playlist.m3u8?wsAuth=b85b7e5734b22ebfdd4b5f592d9c0a84&token=web-cph-0-323876-c58c02104b243774ee5a210447b799a06d77c51cd05cf972&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&pt=2&st=0&sid=383652844&mcid2=0&origin=tct&mix=0&isp=&v=220120240506&did=b6a22755bafd3570a85f218c00021701&tt=1714970435&sign=dabc6d1ab1eb5d585142068caf23cb50&rate=-1&ver=Douyu_224043005&iar=1&ive=0&hevc=0&fa=0&aid=web-alone&uid=0&fa=0
+https://hlsa-akm.douyucdn.cn/live/323876rPE7rkDH53_900/playlist.m3u8?wsAuth=37964116f281524f2ab0fdf9c5ce2c53&token=web-h5-0-323876-c58c02104b243774cef81d1db53c4c5f531e45fc630031f0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391285181&mcid2=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥 free Movies",85894
 https://hlsa-akm.douyucdn.cn/live/85894rmovieChow_900/playlist.m3u8?wsAuth=8353f40dddb3356191f4b573784095d5&token=web-h5-0-85894-a3575d938a4aa309b50649f84845b49edb70643dd946a0e0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=390603539&mcid2=0&origin=tct&mix=0&isp=
