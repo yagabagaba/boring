@@ -52,6 +52,8 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" group-title="🎥 free Movies",HBO Family 
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
+#EXTINF:-1 tvg-id="32" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="",Sony Pix    
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-id="ROCK Entertainment HD" group-title="🎥 free Movies" ch-number="473" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210902/20210902163927011u1k.png",ROCK Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -123,13 +125,6 @@ https://hlsa-akm.douyucdn.cn/live/252802rf4dVkkOD6_4000/playlist.m3u8?wsAuth=612
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="🎥 free Movies",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk
-#EXTINF:-1 group-title="🎥 free Movies" tvg-id="SONY MAX" tvg-chno="331" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716070246131li6.png", Sony Max
-http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd
-
-#EXTINF:-1 tvg-id="PIX HD" tvg-name="Sony Pix HD" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" group-title="🎥 free Movies",Sony Pix HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 
 #EXTINF:-1 tvg-id="AndflixHD.in" tvg-logo="https://bountyentertainment.com.au/pixeleye/wp-content/uploads/BOUNTYlogo-w.png" group-title="🎥 free Movies",bountyfilms
 https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
