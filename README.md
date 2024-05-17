@@ -29,42 +29,42 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=0403e654ddab419db6cc72bb3fa51248&key=9d43bcc51f3750550d321cdc37e57cc9
-#####EXTINF:-1 tvg-id="GEM HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/814_1920x1080_HTV.png" group-title="🎥 free Movies",GEM 
+#EXTINF:-1 tvg-id="GEM HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/814_1920x1080_HTV.png" group-title="🎥 free Movies",GEM 
 https://tglmp01.akamaized.net/out/v1/acd34a6d1e2540f888793461457b77e1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=32bc2ee6869144b88bee3babf202f88e&key=50d3b9ec49e1570621d45822923607f7
-#####EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="🎥 free Movies",Cinemax 
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png" group-title="🎥 free Movies",Cinemax 
 https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=a407479f074d43d798478c1212d95876&key=3afb53a2643939cd7128fa7ceded533a
-#####EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="🎥 free Movies",HBO 
+#EXTINF:-1 tvg-id="HBO HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png" group-title="🎥 free Movies",HBO 
 https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=473fabdc05ac4d9b94fd34f33f73394f&key=1072b1e61206c3859607984f872e549c
-#####EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png" group-title="🎥 free Movies",HBO Hits 
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png" group-title="🎥 free Movies",HBO Hits 
 https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=363b551913124d6b80074ca295b25129&key=a6c6efcab0076d572e5732fb6451d19c
-#####EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" group-title="🎥 free Movies",HBO Family 
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png" group-title="🎥 free Movies",HBO Family 
 https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=a6d8da647fc02d64463e38e222f268b0&key=f4d533e9d51a2aa66af7aaf27f54f92a
-#####EXTINF:-1 tvg-id="" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="🎥 free Movies",Rock Action
+#EXTINF:-1 tvg-id="" tvg-logo="http://playtv.unifi.com.my:7040/CPS/images/universal/film/logo/202309/20230913/20230913232606376llq.png" group-title="🎥 free Movies",Rock Action
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=14a5992ac11cb08303ec82c34e775025&key=e97307a38fe832c62d3f486077745c80
-#####EXTINF:-1 tvg-id="ROCK Entertainment HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" group-title="🎥 free Movies",Rock Entertainment
+#EXTINF:-1 tvg-id="ROCK Entertainment HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/509_1920x1080_HTV.png" group-title="🎥 free Movies",Rock Entertainment
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=edf1a715de9748638dd2fad75a419af2&key=2f5a3199b26e9b693ae881af7ff864cf
-#####EXTINF:-1 tvg-id="Animax HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="🎥 free Movies",Animax 
+#EXTINF:-1 tvg-id="Animax HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-title="🎥 free Movies",Animax 
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/656px-Logo_of_TV1_%28Malaysia%29.svg.png" group-title="🎥 free Movies",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
