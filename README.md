@@ -145,46 +145,7 @@ https://hlsa-akm.douyucdn.cn/live/252802rvh6OawLYi_4000/playlist.m3u8?wsAuth=73f
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="AndflixHD.in" tvg-logo="https://bountyentertainment.com.au/pixeleye/wp-content/uploads/BOUNTYlogo-w.png" group-title="🎥 free Movies",bountyfilms
-https://bountyfilms-bounty-1-nz.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="starmovies.in" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png" group-title="🎥 free Movies",hi-yah
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Fear This!" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60417731dc00887af0275acb" group-title="🎥 free Movies",Fear This!
-https://linear-143.frequency.stream/dist/localnow/143/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Romantique" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/604819fcb99c5b3ca1689cf2/900" group-title="🎥 free Movies",Romantique
-https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Romantique" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/604819fcb99c5b3ca1689cf2/900" group-title="🎥 free Movies",150
-https://linear-150.frequency.stream/dist/localnow/150/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Romantique" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/604819fcb99c5b3ca1689cf2/900" group-title="🎥 free Movies",always christmas
-https://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Romantique" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601341747e82bb6a262f276b/900" group-title="🎥 free Movies",Adrenaline Rush
-https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Drama" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/608a0e28a918527ee77eabe8/900" group-title="🎥 free Movies",Drama
-https://linear-141.frequency.stream/dist/localnow/141/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Drama" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/610d8755b2d6aa31714f9a65/900" group-title="🎥 free Movies",MOVIES of the week
-https://linear-236.frequency.stream/dist/localnow/236/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Drama" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2/900" group-title="🎥 free Movies",family flix
-https://linear-137.frequency.stream/dist/localnow/137/hls/master/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Drama" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/601b338c59852720716748a2/900" group-title="🎥 free Movies",unidentified
-https://linear-267.frequency.stream/dist/localnow/267/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LocalNowFearThis.us" tvg-name="Local Now Drama" tvg-country="US" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6014757daa89d94e1960b8e0/900" group-title="🎥 free Movies",that's funny
-https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MovieSphere.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjM1Njg1NTFf/MovieSphere_400x400.png" group-title="🎥 free Movies",MovieSphere (1080p)
-https://moviesphere-plex.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="🎥 free Movies",CineLife (1080p)
@@ -201,14 +162,6 @@ https://brat-tcl.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://mpng.subpng.com/20180406/vdq/kisspng-youtube-horror-film-scary-movie-comedy-horror-5ac7db756dcf38.6961176415230472854498.jpg" group-title="🎥 free Movies",STIRR Horror Movies (720p)
-https://dai.google.com/linear/hls/event/3NTKKQBuQtaIrcUBj20lyg/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/03/Gravitas-Movies-logo.png?w=1200&ssl=1" group-title="🎥 free Movies",STIRR Gravitas Movies (720p)
-https://dai.google.com/linear/hls/event/EpqgwRlpQKq73ySVSohJWA/master.m3u8
-
-#EXTINF:-1 tvg-id="STIRRMovies.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ec3yTaI.png" group-title="🎥 free Movies",STIRR Movies (720p) [Not 24/7]
-https://dai.google.com/linear/hls/event/f-zA7b21Squ7M1_sabGfjA/master.m3u8
 
 #EXTINF:-1 tvg-id="WatchItScream.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ylPU4Uf.jpg" group-title="🎥 free Movies",Watch It Scream! (720p)
 https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
@@ -230,39 +183,6 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://i.ibb.co/Y7L31QJ/6038b24ab22ac-384x384.png" group-title="🎥 free Movies", rakuten-comedy
 https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://planetdish.com/wp-content/uploads/2017/09/PixL-on-DISH.png" group-title="🎥 free Movies", Pixl TV Movie Channel
-https://frndlymsl.akamaized.net/hls/live/2006426/pixlmsl/pixlmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-
-
-
-
-#EXTINF:-1 tvg-id="blueant" tvg-name="BLUE ANT ENTERTANMENT" tvg-logo="https://cdn.macan.tv/img/blue_ant_entertainment.png" group-title="🎥 free Movies",MOVIES KINGDOM
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-id="blueantextreme" tvg-name="BLUE ANT EXTREME" tvg-logo="https://cdn.macan.tv/img/blue_ant_extreme.png" group-title="🎥 free Movies",shoutfactory 
-https://shoutfactory-screamfactorytv-1-us.ono.wurl.tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzQ3MDMwMjhf/HauntTV_600x600.png" group-title="🎥 free Movies",Haunt TV 
-https://haunttv-roku.amagi.tv/playlist.m3u8?l1br3HA0501
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMwNjBf/DarkMatterTV_218x218.png" group-title="🎥 free Movies",Dark Matter TV 
-https://dmtv-plex.amagi.tv/playlist.m3u8?l1br3DM0501
-
-#EXTINF:-1 tvg-logo="https://od.lk/s/MF8yMzUyODMyMzRf/AmericanHorrors.png" group-title="🎥 free Movies",American Horrors
-http://170.178.189.66:1935/live/Stream1/playlist.m3u8?l1br3DM0501
-
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/8-84127_logo-del-canal-golden-hd-png-download.png" group-title="🎥 free Movies",Dimensions
-https://simultv.s.llnwi.net/o054/Dimensions/interlink.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/Golden_hd.png/revision/latest?cb=20120304082058" group-title="🎥 free Movies",xzone
-https://simultv.s.llnwi.net/o060/xzone/interlink.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/GoldenPlus.png/revision/latest?cb=20171205221730" group-title="🎥 free Movies",ReadySetAction
-https://simultv.s.llnwi.net/o059/ReadySetAction/interlink.m3u8
-
-#EXTINF:-1 tvg-logo="https://w1.pngwing.com/pngs/890/858/png-transparent-golden-logo-television-lyngsat-television-channel-design-m-text-circle-thumbnail.png" group-title="🎥 free Movies",stirr mix
-https://dai.google.com/linear/hls/event/ZP8ZMv95Q0Gm9EiyYOGHAA/master.m3u8
 
 #EXTINF:-1 tvg-id="PRI.NZ" tvg-logo="https://static.epg.best/nz/PrimeTV.nz.png" group-title="🎥 free Movies",Prime
 https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For=202.89.4.222
