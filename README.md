@@ -188,7 +188,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/db3J7xh/1-music-channel-logo-FB300-DCF9-A-seeklogo-com.png" group-title="🎥 ",1 Music
 http://hz1.teleport.cc/HLS/HD.m3u8
 
-#EXTINF:-1 tvg-id="M2.ua" tvg-country="RU;UA" tvg-language="Ukrainian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m2-ua.png" group-title="🎶 Music",M2 (540p)
+#EXTINF:-1 tvg-id="M2.ua" tvg-country="RU;UA" tvg-language="Ukrainian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m2-ua.png" group-title="🎥",M2 (540p)
 http://live.m2.tv/hls3/stream.m3u8
 
 
