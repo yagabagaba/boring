@@ -1,6 +1,6 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
-#EXTINF:-1 tvg-id="Channel 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",Channel 5 
+#EXTINF:-1 tvg-id="Channel 5 HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png",Channel 5 
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -149,17 +149,17 @@ http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="🎥",CineLife (1080p)
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Crackle.us" tvg-country="US" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMjUyNDQ4NjZf/Crackle_365x365.png" group-title="🎥",Crackle (720p)
+#EXTINF:-1 tvg-id="Crackle.us" tvg-country="US" tvg-language="English" tvg-logo="https://logos-world.net/wp-content/uploads/2022/04/Crackle-Symbol.png" group-title="🎥",Crackle (720p)
 https://crackle-plex.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="🎥",bloodydisgusting
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://www.tvguide.com/a/img/resize/4d22b6867b91807c62af924cee98751273f5061c/hub/2022/10/11/8c099fc5-20e2-4076-99d7-2b9d31fc6d96/3p-logo-cb639105310.png?auto=webp&width=768" group-title="🎥",screambox
 https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="http://www.cine-house.com/wp-content/uploads/logo.png" group-title="🎥",Brat tv
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f0/Brat_TV_logo.png" group-title="🎥",Brat tv
 https://brat-tcl.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="&Flix" group-title="🎥" tvg-logo="https://i.ibb.co/vsyWTvD/MNX-logo.png",filmstream
+#EXTINF:-1 tvg-id="&Flix" group-title="🎥" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Filmstream_Stacked.svg/revision/latest?cb=20211214113114",filmstream
 https://spi-filmstream-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 
