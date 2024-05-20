@@ -146,6 +146,45 @@ https://hlsa-akm.douyucdn.cn/live/252802rvh6OawLYi_4000/playlist.m3u8?wsAuth=73f
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="🎥",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 
+#EXTM3U x-tvg-url="https://i.mjh.nz/au/Sydney/epg.xml"
+#EXTINF:-1 channel-id="mjh-abc-kids" tvg-id="mjh-abc-kids" tvg-logo="https://i.mjh.nz/.images/abc-kids.png" tvg-chno="22" group-title="🎥" , ABC Kids
+https://c.mjh.nz/abc-kids.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-abc-tv-plus" tvg-id="mjh-abc-tv-plus" tvg-logo="https://i.mjh.nz/.images/abc-tv-plus.png" tvg-chno="22" group-title="🎥" , ABC TV Plus
+https://c.mjh.nz/abc-tv-plus.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-abc-me" tvg-id="mjh-abc-me" tvg-logo="https://i.mjh.nz/.images/abc-me.png" tvg-chno="23" group-title="🎥" , ABC ME
+https://c.mjh.nz/abc-me.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-abc-news" tvg-id="mjh-abc-news" tvg-logo="https://i.mjh.nz/.images/abc-news.png" tvg-chno="24" group-title="🎥" , ABC NEWS
+https://c.mjh.nz/abc-news.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sbs" tvg-id="mjh-sbs" tvg-logo="https://i.mjh.nz/.images/sbs.png" tvg-chno="3" group-title="🎥" , SBS
+https://i.mjh.nz/sbs.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sbs-viceland" tvg-id="mjh-sbs-viceland" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" tvg-chno="31" group-title="🎥" , SBS VICELAND
+https://i.mjh.nz/sbs-viceland.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sbs-food" tvg-id="mjh-sbs-food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" tvg-chno="33" group-title="🎥" , SBS Food
+https://i.mjh.nz/sbs-food.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sbs-world-movies" tvg-id="mjh-sbs-world-movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" tvg-chno="32" group-title="🎥" , SBS World Movies
+https://i.mjh.nz/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sbs-nitv" tvg-id="mjh-sbs-nitv" tvg-logo="https://i.mjh.nz/.images/sbs-nitv.png" tvg-chno="34" group-title="🎥" , NITV
+https://i.mjh.nz/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sbs-world-watch" tvg-id="mjh-sbs-world-watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" tvg-chno="35" group-title="🎥" , SBS World Watch
+https://i.mjh.nz/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+#EXTINF:-1 channel-id="mjh-sbs-chill" tvg-id="mjh-sbs-chill" tvg-logo="https://i.mjh.nz/.images/sbs-chill.png" group-title="🎥" , SBS Chill
+https://i.mjh.nz/sbs-chill.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+
+#EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="🎥" , Channel News Asia (CNA)
+https://i.mjh.nz/channel-news-asia.m3u8|user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+
+
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="🎥",CineLife (1080p)
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
@@ -194,3 +233,82 @@ http://live.m2.tv/hls3/stream.m3u8
 
 #EXTINF:-1 group-title="🎥" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46L9X34ta5c2AsXKOxjTJEajcOyJ79fjruA&usqp=CAU",now90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml"
+#EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" tvg-chno="10" group-title="🎥" , Pluto TV Spotlight
+https://r.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-64b585f84ea480000838e446" tvg-id="64b585f84ea480000838e446" tvg-logo="https://images.pluto.tv/channels/64b585f84ea480000838e446/colorLogoPNG.png" tvg-chno="20" group-title="🎥" , Pluto TV Icons
+https://r.mjh.nz/PlutoTV/64b585f84ea480000838e446-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-561d7d484dc7c8770484914a" tvg-id="561d7d484dc7c8770484914a" tvg-logo="https://images.pluto.tv/channels/561d7d484dc7c8770484914a/colorLogoPNG.png" tvg-chno="30" group-title="🎥" , Pluto TV Action
+https://r.mjh.nz/PlutoTV/561d7d484dc7c8770484914a-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-617b37b361e0fd0008cfd8c5" tvg-id="617b37b361e0fd0008cfd8c5" tvg-logo="https://images.pluto.tv/channels/617b37b361e0fd0008cfd8c5/colorLogoPNG.png" tvg-chno="40" group-title="🎥" , Pluto TV Reaction
+https://r.mjh.nz/PlutoTV/617b37b361e0fd0008cfd8c5-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5a4d3a00ad95e4718ae8d8db" tvg-id="5a4d3a00ad95e4718ae8d8db" tvg-logo="https://images.pluto.tv/channels/5a4d3a00ad95e4718ae8d8db/colorLogoPNG.png" tvg-chno="50" group-title="🎥" , Pluto TV Comedy
+https://r.mjh.nz/PlutoTV/5a4d3a00ad95e4718ae8d8db-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b4e92e4694c027be6ecece1" tvg-id="5b4e92e4694c027be6ecece1" tvg-logo="https://images.pluto.tv/channels/5b4e92e4694c027be6ecece1/colorLogoPNG.png" tvg-chno="60" group-title="🎥" , Pluto TV Drama
+https://r.mjh.nz/PlutoTV/5b4e92e4694c027be6ecece1-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b64a245a202b3337f09e51d" tvg-id="5b64a245a202b3337f09e51d" tvg-logo="https://images.pluto.tv/channels/5b64a245a202b3337f09e51d/colorLogoPNG.png" tvg-chno="70" group-title="🎥" , Pluto TV Fantastic
+https://r.mjh.nz/PlutoTV/5b64a245a202b3337f09e51d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5a66795ef91fef2c7031c599" tvg-id="5a66795ef91fef2c7031c599" tvg-logo="https://images.pluto.tv/channels/5a66795ef91fef2c7031c599/colorLogoPNG.png" tvg-chno="80" group-title="🎥" , Pluto TV Romance
+https://r.mjh.nz/PlutoTV/5a66795ef91fef2c7031c599-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4d8594eb979c0007706de7" tvg-id="5f4d8594eb979c0007706de7" tvg-logo="https://images.pluto.tv/channels/5f4d8594eb979c0007706de7/colorLogoPNG.png" tvg-chno="90" group-title="🎥" , Pluto TV Crime Movies
+https://r.mjh.nz/PlutoTV/5f4d8594eb979c0007706de7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b4e69e08291147bd04a9fd7" tvg-id="5b4e69e08291147bd04a9fd7" tvg-logo="https://images.pluto.tv/channels/5b4e69e08291147bd04a9fd7/colorLogoPNG.png" tvg-chno="100" group-title="🎥" , Pluto TV Thrillers
+https://r.mjh.nz/PlutoTV/5b4e69e08291147bd04a9fd7-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-569546031a619b8f07ce6e25" tvg-id="569546031a619b8f07ce6e25" tvg-logo="https://images.pluto.tv/channels/569546031a619b8f07ce6e25/colorLogoPNG.png" tvg-chno="110" group-title="🎥" , Pluto TV Horror
+https://r.mjh.nz/PlutoTV/569546031a619b8f07ce6e25-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5c6dc88fcd232425a6e0f06e" tvg-id="5c6dc88fcd232425a6e0f06e" tvg-logo="https://images.pluto.tv/channels/5c6dc88fcd232425a6e0f06e/colorLogoPNG.png" tvg-chno="120" group-title="🎥" , Pluto TV Terror
+https://r.mjh.nz/PlutoTV/5c6dc88fcd232425a6e0f06e-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-58af4c093a41ca9d4ecabe96" tvg-id="58af4c093a41ca9d4ecabe96" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG.png" tvg-chno="130" group-title="🎥" , Black Cinema
+https://r.mjh.nz/PlutoTV/58af4c093a41ca9d4ecabe96-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-645e7828e1979c00087b75b4" tvg-id="645e7828e1979c00087b75b4" tvg-logo="https://images.pluto.tv/channels/645e7828e1979c00087b75b4/colorLogoPNG.png" tvg-chno="140" group-title="🎥" , MovieSphere by Lionsgate
+https://r.mjh.nz/PlutoTV/645e7828e1979c00087b75b4-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4d863b98b41000076cd061" tvg-id="5f4d863b98b41000076cd061" tvg-logo="https://images.pluto.tv/channels/5f4d863b98b41000076cd061/colorLogoPNG.png" tvg-chno="150" group-title="🎥" , Pluto TV Staff Picks
+https://r.mjh.nz/PlutoTV/5f4d863b98b41000076cd061-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b85a7582921777994caea63" tvg-id="5b85a7582921777994caea63" tvg-logo="https://images.pluto.tv/channels/5b85a7582921777994caea63/colorLogoPNG.png" tvg-chno="155" group-title="🎥" , Pluto TV Documentaries
+https://r.mjh.nz/PlutoTV/5b85a7582921777994caea63-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-62ba60f059624e000781c436" tvg-id="62ba60f059624e000781c436" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" tvg-chno="160" group-title="🎥" , 00s Replay
+https://r.mjh.nz/PlutoTV/62ba60f059624e000781c436-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4d86f519358a00072b978e" tvg-id="5f4d86f519358a00072b978e" tvg-logo="https://images.pluto.tv/channels/5f4d86f519358a00072b978e/colorLogoPNG.png" tvg-chno="170" group-title="🎥" , 90s Throwback
+https://r.mjh.nz/PlutoTV/5f4d86f519358a00072b978e-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ca525b650be2571e3943c63" tvg-id="5ca525b650be2571e3943c63" tvg-logo="https://images.pluto.tv/channels/5ca525b650be2571e3943c63/colorLogoPNG.png" tvg-chno="180" group-title="🎥" , 80s Rewind
+https://r.mjh.nz/PlutoTV/5ca525b650be2571e3943c63-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f4d878d3d19b30007d2e782" tvg-id="5f4d878d3d19b30007d2e782" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" tvg-chno="190" group-title="🎥" , 70s Cinema
+https://r.mjh.nz/PlutoTV/5f4d878d3d19b30007d2e782-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5cb0cae7a461406ffe3f5213" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://images.pluto.tv/channels/5cb0cae7a461406ffe3f5213/colorLogoPNG.png" tvg-chno="200" group-title="🎥" , Paramount Movie Channel
+https://r.mjh.nz/PlutoTV/5cb0cae7a461406ffe3f5213-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5b4e94282d4ec87bdcbb87cd" tvg-id="5b4e94282d4ec87bdcbb87cd" tvg-logo="https://images.pluto.tv/channels/5b4e94282d4ec87bdcbb87cd/colorLogoPNG.png" tvg-chno="210" group-title="🎥" , Pluto TV Westerns
+https://r.mjh.nz/PlutoTV/5b4e94282d4ec87bdcbb87cd-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-561c5b0dada51f8004c4d855" tvg-id="561c5b0dada51f8004c4d855" tvg-logo="https://images.pluto.tv/channels/561c5b0dada51f8004c4d855/colorLogoPNG.png" tvg-chno="220" group-title="🎥" , Classic Movies Channel
+https://r.mjh.nz/PlutoTV/561c5b0dada51f8004c4d855-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5c665db3e6c01b72c4977bc2" tvg-id="5c665db3e6c01b72c4977bc2" tvg-logo="https://images.pluto.tv/channels/5c665db3e6c01b72c4977bc2/colorLogoPNG.png" tvg-chno="230" group-title="🎥" , Pluto TV Cult Films
+https://r.mjh.nz/PlutoTV/5c665db3e6c01b72c4977bc2-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65a9b20f0c7ff50008d3a3b6" tvg-id="65a9b20f0c7ff50008d3a3b6" tvg-logo="https://images.pluto.tv/channels/65a9b20f0c7ff50008d3a3b6/colorLogoPNG.png" tvg-chno="235" group-title="🎥" , Universal Monsters
+https://r.mjh.nz/PlutoTV/65a9b20f0c7ff50008d3a3b6-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-58e55b14ad8e9c364d55f717" tvg-id="58e55b14ad8e9c364d55f717" tvg-logo="https://images.pluto.tv/channels/58e55b14ad8e9c364d55f717/colorLogoPNG.png" tvg-chno="240" group-title="🎥" , Flicks of Fury
+https://r.mjh.nz/PlutoTV/58e55b14ad8e9c364d55f717-alt.m3u8
