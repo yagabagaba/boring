@@ -222,7 +222,8 @@ https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8|X-Forwarded-For
 #EXTINF:-1 group-title="🎥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/jxuwGRi.png",xite
+https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/db3J7xh/1-music-channel-logo-FB300-DCF9-A-seeklogo-com.png" group-title="🎥 ",1 Music
 http://hz1.teleport.cc/HLS/HD.m3u8
