@@ -204,7 +204,7 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",747764
-https://hls1a-akm.douyucdn.cn/live/747764rXBVmyE1jr_4000/playlist.m3u8?wsAuth=4eb9df58f2a689fbebecb5ce6991c80d&token=web-h5-0-747764-72757a48f7b39f8d50f8922e15bc48e69f2ecdf9b1ba48c7&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391043789&mcid2=0&origin=tct&mix=0&isp=
+https://hls1a-akm.douyucdn.cn/live/747764rY8y36S2GJ_4000/playlist.m3u8?wsAuth=add6ea7bc8ccf126b8aadcbeca021e6f&token=web-h5-0-747764-72757a48f7b39f8dc0eb3fd426b2fc1abfaf404dc637efd3&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391588617&mcid2=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", 323876
 https://hlsa-akm.douyucdn.cn/live/323876rPE7rkDH53_900/playlist.m3u8?wsAuth=37964116f281524f2ab0fdf9c5ce2c53&token=web-h5-0-323876-c58c02104b243774cef81d1db53c4c5f531e45fc630031f0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391285181&mcid2=0&origin=tct&mix=0&isp=
