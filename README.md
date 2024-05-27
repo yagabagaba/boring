@@ -110,7 +110,21 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5128/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 tvg-id="MyCinema" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Mcn.png" group-title="🎥",My Cinema
+
 https://cdn08jtedge.indihometv.com/dassdvr/133/mycinema/manifest.mpd
+#EXTINF:-1 group-title="🎥" tvg-logo="_______", GALAXY PREMIUM
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+
+#EXTINF:-1 group-title="🎥" tvg-logo="_______", GALAXY
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -215,19 +229,7 @@ https://hlsa-akm.douyucdn.cn/live/85894rmovieChow_900/playlist.m3u8?wsAuth=8353f
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥",252802
 https://hlsa-akm.douyucdn.cn/live/252802rvh6OawLYi_4000/playlist.m3u8?wsAuth=73f35fa353ad9d1ee7867b031bdc2c01&token=web-h5-0-252802-536492a84fc6fe0c592fe10fe93f9d0c54596c67f360467e&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_224051705&pt=2&st=0&sid=391166626&mcid2=0&origin=tct&mix=0&isp=
 
-#EXTINF:-1 group-title="🎥" tvg-logo="_______", GALAXY PREMIUM
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 
-#EXTINF:-1 group-title="🎥" tvg-logo="_______", GALAXY
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
 #EXTINF:-1 group-title="🎥" tvg-logo="_______", CINEMA WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
