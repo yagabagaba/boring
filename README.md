@@ -124,6 +124,31 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1jDgTgxeP5jcOIQL4cHdTA", "kid":"+eS+CZJsJi7/orU4GuNVPQ" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/AxnMovies.png" group-title="🎥",Axn Movies
+https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
+
+#EXTINF:-1 tvg-id="ts506" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/&flix.png" group-logo="" group-title="🎥",&flix
+http://opplextv.cyou:8080//live/7262771/7272772/66236.ts
+
+#EXTINF:-1 tvg-id="ts530" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/%26priv%C3%A9.png" group-logo="" group-title="🎥",&prive
+http://opplextv.cyou:8080//live/7262771/7272772/66228.ts
+
+#EXTINF:-1 tvg-id="ts210" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MN%2B.png" group-logo="" group-logo="" group-title="🎥",MN+  
+http://opplextv.cyou:8080//live/7262771/7272772/66244.ts
+
+#EXTINF:-1 tvg-id="ts173" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MoviesNow.png" group-logo="" group-title="🎥",Movies Now
+http://opplextv.cyou:8080//live/7262771/7272772/66271.ts
+
+#EXTINF:-1 tvg-id="ts560" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-logo="" group-title="🎥",Star Movies
+http://opplextv.cyou:8080//live/7262771/7272772/66213.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"DQ31GJJWwL8ywM0JdrrFvQ", "kid":"leweJugMOCWKMBAdBsjL9w" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Syfy.png" group-title="🎥",Syfy 
+https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
