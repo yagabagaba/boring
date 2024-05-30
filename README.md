@@ -544,5 +544,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_primary.mpd
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",TUTOR TV 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_TutorTV.png" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21",fallguy
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21",fallguy
 https://stream.hownetwork.xyz/yyy/the-fall-guy-2024-webdl_X_fd402777/22/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", kong x godzila
+https://stream.hownetwork.xyz/yyy/godzilla-x-kong-the-new-empire-2024-webdl_X_33b2442a.480/22/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-thelma-the-unicorn-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", thelma
+https://stream.hownetwork.xyz/yyy/thelma-the-unicorn-2024-webdl_X_ceefe7a5/22/480.m3u8
