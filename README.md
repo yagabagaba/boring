@@ -569,6 +569,6 @@ https://stream.hownetwork.xyz/yyy/monkey-man-2024-webdl_X_23483923/21/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/04/film-monkey-man-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", monkeyman
 https://stream.hownetwork.xyz/yyy/arcadian-2024-webdl_X_c89bb05b/22/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/01/film-lift-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", lift
-https://stream.hownetwork.xyz/yyy/aquaman-and-the-lost-kingdom-2023-bluray_X_86e3a7ee/1000/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-aquaman-and-the-lost-kingdom-2023-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", aquaman2
 https://stream.hownetwork.xyz/yyy/lift-2024-webdl_X_300d9ad5/19/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/01/film-aquaman-and-the-lost-kingdom-2023-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", aquaman2
+https://stream.hownetwork.xyz/yyy/aquaman-and-the-lost-kingdom-2023-bluray_X_86e3a7ee/1000/480.m3u8
