@@ -365,6 +365,13 @@ http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 group-title="🎥" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46L9X34ta5c2AsXKOxjTJEajcOyJ79fjruA&usqp=CAU",now90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/all.xml"
+#EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ1700002PA_20231024T232003SQUARE.png_20231024232004.png" tvg-chno="10" group-title="🎥" assylum
+https://i.mjh.nz/SamsungTVPlus/CAAJ1700002PA.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CAAJ40000077N_20240401T234420SQUARE.png" tvg-chno="10" group-title="🎥" filmrise
+https://i.mjh.nz/SamsungTVPlus/CAAJ40000077N.m3u8
+
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml"
 #EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" tvg-chno="10" group-title="🎥" , Pluto TV Spotlight
 https://r.mjh.nz/PlutoTV/5ba3fb9c4b078e0f37ad34e8-alt.m3u8
