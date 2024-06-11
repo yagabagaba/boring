@@ -580,3 +580,9 @@ https://stream.hownetwork.xyz/yyy/lift-2024-webdl_X_300d9ad5/19/480.m3u8
 https://stream.hownetwork.xyz/yyy/aquaman-and-the-lost-kingdom-2023-bluray_X_86e3a7ee/1000/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-abigail-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", abigail
 https://stream.hownetwork.xyz/yyy/abigail-2024-webdl_X_0203006d/22/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/06/film-hit-man-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", hitman
+https://stream.hownetwork.xyz/yyy/hit-man-2024-webdl_X_960c7f88/22/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-boy-kills-world-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", boy kills world
+https://stream.hownetwork.xyz/yyy/boy-kills-world-2024-webdl_X_17491eaf/22/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-under-paris-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", under paris
+https://stream.hownetwork.xyz/yyy/under-paris-2024-webdl_X_d1f2afb9/22/480.m3u8
