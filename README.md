@@ -1,3 +1,5 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml,https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml,https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/656px-Logo_of_TV1_%28Malaysia%29.svg.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TV2_RTM.png/220px-TV2_RTM.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",TV2
