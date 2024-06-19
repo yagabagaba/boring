@@ -389,6 +389,108 @@ http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 group-title="🎥" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46L9X34ta5c2AsXKOxjTJEajcOyJ79fjruA&usqp=CAU",now90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml"
+
+
+#EXTINF:-1 channel-id="samsung-USBC1300012VK" tvg-id="USBC1300012VK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC1300012VK_20240520T214755SQUARE.png" tvg-chno="3005" group-title="🎥" , Fear Zone
+https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBD1200007FE" tvg-id="USBD1200007FE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" tvg-chno="3030" group-title="🎥" , OuterSphere
+https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBC4400006BR" tvg-id="USBC4400006BR" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC4400006BR_20240520T214803SQUARE.png" tvg-chno="3045" group-title="🎥" , Haunt TV
+https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBD270001633" tvg-id="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20240520T222906SQUARE.png" tvg-chno="1220" group-title="🎥" , Hallmark Movies & More
+https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBB5200019FO" tvg-id="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20240611T050335SQUARE.png" tvg-chno="1225" group-title="🎥" , Movie Favorites by Lifetime
+https://i.mjh.nz/SamsungTVPlus/USBB5200019FO.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBD17000117B" tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20240520T223358SQUARE.png" tvg-chno="1230" group-title="🎥" , MovieSphere
+https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBA300017PK" tvg-id="USBA300017PK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300017PK_20240520T222742SQUARE.png" tvg-chno="1235" group-title="🎥" , Pluto TV Fantastic
+https://i.mjh.nz/SamsungTVPlus/USBA300017PK.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-US18000163F" tvg-id="US18000163F" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US18000163F_20240611T050317SQUARE.png" tvg-chno="1237" group-title="🎥" , Miramax Channel
+https://i.mjh.nz/SamsungTVPlus/US18000163F.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USAJ30000148W" tvg-id="USAJ30000148W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000148W_20240520T222614SQUARE.png" tvg-chno="1240" group-title="🎥" , CINEVAULT
+https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBB3200015M8" tvg-id="USBB3200015M8" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200015M8_20240520T222842SQUARE.png" tvg-chno="1245" group-title="🎥" , CINEVAULT: Classics
+https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USAJ26000054W" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20240520T222740SQUARE.png" tvg-chno="1250" group-title="🎥" , Paramount Movie Channel
+https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBB3200030CG" tvg-id="USBB3200030CG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200030CG_20240611T050314SQUARE.png" tvg-chno="1255" group-title="🎥" , Movies on the Rotten Tomatoes Channel
+https://i.mjh.nz/SamsungTVPlus/USBB3200030CG.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBD700011RE" tvg-id="USBD700011RE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700011RE_20240520T222902SQUARE.png" tvg-chno="1260" group-title="🎥" , Gravitas Movies
+https://i.mjh.nz/SamsungTVPlus/USBD700011RE.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBC3900018K6" tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" tvg-chno="1265" group-title="🎥" , MyTime Movie Network
+https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBC2100007I2" tvg-id="USBC2100007I2" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC2100007I2_20240520T222844SQUARE.png" tvg-chno="1270" group-title="🎥" , Chicken Soup for the Soul
+https://i.mjh.nz/SamsungTVPlus/USBC2100007I2.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USAJ30000122O" tvg-id="USAJ30000122O" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ30000122O_20240520T222734SQUARE.png" tvg-chno="1275" group-title="🎥" , NEW KMOVIES
+https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USAJ3000007MT" tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20240520T222716SQUARE.png" tvg-chno="1285" group-title="🎥" , Maverick Black Cinema
+https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USAJ40000072X" tvg-id="USAJ40000072X" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ40000072X_20240520T222643SQUARE.png" tvg-chno="1290" group-title="🎥" , FilmRise Free Movies
+https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBB3200020ID" tvg-id="USBB3200020ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200020ID_20240520T222641SQUARE.png" tvg-chno="1292" group-title="🎥" , FilmRise Action
+https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
+
+
+
+
+
+#EXTINF:-1 channel-id="samsung-USAJ17000014C" tvg-id="USAJ17000014C" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ17000014C_20240520T214701SQUARE.png" tvg-chno="3070" group-title="🎥" , The Asylum
+https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBC100001175" tvg-id="USBC100001175" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC100001175_20240520T214808SQUARE.png" tvg-chno="3075" group-title="🎥" , Horror by ALTER
+https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBD700015LK" tvg-id="USBD700015LK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700015LK_20240520T214813SQUARE.png" tvg-chno="3080" group-title="🎥" , Midnight Pulp
+https://i.mjh.nz/SamsungTVPlus/USBD700015LK.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USAJ3504502A" tvg-id="USAJ3504502A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504502A_20240520T214506SQUARE.png" tvg-chno="3205" group-title="🎥" , Anime All day
+https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-USBC36000073J" tvg-id="USBC36000073J" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC36000073J_20240520T214828SQUARE.png" tvg-chno="3207" group-title="🎥" , RetroCrush
+https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
+
+
 
 #EXTM3U x-tvg-url="https://i.mjh.nz/PlutoTV/us.xml"
 #EXTINF:-1 channel-id="pluto-5ba3fb9c4b078e0f37ad34e8" tvg-id="5ba3fb9c4b078e0f37ad34e8" tvg-logo="https://images.pluto.tv/channels/5ba3fb9c4b078e0f37ad34e8/colorLogoPNG.png" tvg-chno="10" group-title="🎥" , Pluto TV Spotlight
