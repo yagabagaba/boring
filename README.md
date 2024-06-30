@@ -123,6 +123,44 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
+#EXTINF:-1 group-title="🎥" tvg-logo="_______", ochannel
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+
+#EXTINF:-1 group-title="🎥" tvg-logo="_______", mentaritv
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/transtv.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", transtv hd
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", trans7 hd
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/sctv.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", sctv
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", indosiar
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/transtv.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", transtv
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/vtv.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", vtv
+https://flv.intechmedia.net/live/ch107.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rtv.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", rtv
+https://flv.intechmedia.net/live/ch115.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -251,7 +289,7 @@ https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fd
 https://hls1a-akm.douyucdn.cn/live/747764rY8y36S2GJ_4000/playlist.m3u8?wsAuth=add6ea7bc8ccf126b8aadcbeca021e6f&token=web-h5-0-747764-72757a48f7b39f8dc0eb3fd426b2fc1abfaf404dc637efd3&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391588617&mcid2=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", 323876
-https://hlsa-akm.douyucdn.cn/live/323876rPE7rkDH53_900/playlist.m3u8?wsAuth=37964116f281524f2ab0fdf9c5ce2c53&token=web-h5-0-323876-c58c02104b243774cef81d1db53c4c5f531e45fc630031f0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=391285181&mcid2=0&origin=tct&mix=0&isp=
+https://hlsa-akm.douyucdn.cn/live/323876r9jcygmzuW_4000/playlist.m3u8?wsAuth=f35819f00856981423afe61891da16f3&token=web-h5-0-323876-c58c02104b2437741d8e91566e8da01f72943b02fb835988&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=393907574&mcid2=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥",85894
 https://hlsa-akm.douyucdn.cn/live/85894rmovieChow_900/playlist.m3u8?wsAuth=8353f40dddb3356191f4b573784095d5&token=web-h5-0-85894-a3575d938a4aa309b50649f84845b49edb70643dd946a0e0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=390603539&mcid2=0&origin=tct&mix=0&isp=
