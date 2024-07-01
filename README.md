@@ -116,10 +116,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
 
-#EXTINF:-1 group-title="🎥" tvg-logo="_______", IMC
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#EXTINF:-1 tvg-name="" tvg-id="IMC" tvg-logo="https://images.indihometv.com/logo_imc_small.png" group-title="🎥",IMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
@@ -162,11 +160,15 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/vtv.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", vtv
+#EXTINF:-1 tvg-id="vtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png" group-title="🎥",VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/rtv.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", rtv
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png" group-title="🎥",RTV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch115.m3u8
+
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -361,7 +363,11 @@ https://i.mjh.nz/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=M
 #EXTINF:-1 channel-id="mjh-sbs-chill" tvg-id="mjh-sbs-chill" tvg-logo="https://i.mjh.nz/.images/sbs-chill.png" group-title="🎥" , SBS Chill
 https://i.mjh.nz/sbs-chill.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 tvg-name="" tvg-id="Cinema One (1.8s) Global" tvg-logo="https://iili.io/JmoHb6b.png" group-title="🎥",Cinema One (1.8s)
+https://cinemaone-abscbn-ono.amagi.tv/index_3.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://iili.io/JmoJ98Q.png" group-title="🎥",Cinemo (1.9s)
+https://cinemo-abscbn-ono.amagi.tv/playlist720_p.m3u8
 
 
 
