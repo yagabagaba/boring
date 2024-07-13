@@ -593,6 +593,9 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-the-garfield-movie-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21" garfield
+https://stream.hownetwork.xyz/yyy/the-garfield-movie-2024-webdl_X_74da3cf7/22/480.m3u8
+
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21",fallguy
 https://stream.hownetwork.xyz/yyy/the-fall-guy-2024-webdl_X_fd402777/22/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/04/film-godzilla-x-kong-the-new-empire-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", kong x godzila
