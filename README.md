@@ -593,8 +593,7 @@ https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
 
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-the-garfield-movie-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21" garfield
-https://stream.hownetwork.xyz/yyy/the-garfield-movie-2024-webdl_X_74da3cf7/22/480.m3u8
+
 
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21",fallguy
 https://stream.hownetwork.xyz/yyy/the-fall-guy-2024-webdl_X_fd402777/22/480.m3u8
@@ -632,3 +631,5 @@ https://stream.hownetwork.xyz/yyy/hit-man-2024-webdl_X_960c7f88/22/480.m3u8
 https://stream.hownetwork.xyz/yyy/boy-kills-world-2024-webdl_X_17491eaf/22/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/06/film-under-paris-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", under paris
 https://stream.hownetwork.xyz/yyy/under-paris-2024-webdl_X_d1f2afb9/22/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-the-garfield-movie-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21" garfield
+https://stream.hownetwork.xyz/yyy/the-garfield-movie-2024-webdl_X_74da3cf7/22/480.m3u8
