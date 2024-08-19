@@ -599,8 +599,8 @@ https://cdn-3.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 https://stream.hownetwork.xyz/yyy/despicable-me-4-2024-webdl_X_42be0248/22/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/08/film-saving-bikini-bottom-the-sandy-cheeks-movie-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", spongebob sandy
 https://stream.hownetwork.xyz/yyy/saving-bikini-bottom-the-sandy-cheeks-movie-2024-webdl_X_f1cb5f73/22/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2024/05/film-thelma-the-unicorn-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", thelma
-https://stream.hownetwork.xyz/yyy/thelma-the-unicorn-2024-webdl_X_ceefe7a5/22/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/07/film-the-garfield-movie-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", garfield
+https://stream.hownetwork.xyz/yyy/the-garfield-movie-2024-bluray_X_602e6dbe/22/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/03/film-godzilla-minus-one-2023-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", godzilla-1
 https://stream.hownetwork.xyz/yyy/godzilla-minus-one-2023-bluray_X_eeac31ae/22/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2024/04/film-ghostbusters-frozen-empire-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", ghostbuster frozen
