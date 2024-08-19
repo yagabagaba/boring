@@ -382,10 +382,10 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",747764
-https://hls1a-akm.douyucdn.cn/live/747764r7IoKFyItr/playlist.m3u8?wsAuth=9f1354e99f53eed10d58cd7d22a54237&token=web-h5-0-747764-72757a48f7b39f8d1804bcff16d3b9baa3e2f0fdc14c4088&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=394302266&mcid2=0&origin=tct&mix=0&isp=
+https://hlsa-akm.douyucdn.cn/live/747764rQN67TutVA_4000/playlist.m3u8?wsAuth=2b043cc8f85a710b6e33d5ec1fdd56c9&token=web-h5-0-747764-72757a48f7b39f8de884e3e9330b9d3571b7e46e881fa33f&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=395058664&mcid2=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", 323876
-https://hlsa-akm.douyucdn.cn/live/323876rPxWNE96XU/playlist.m3u8?wsAuth=37e818285ecdb19900c2ca9f9ed2432d&token=web-h5-0-323876-c58c02104b2437743e52bae7d7f04f8d6d7377fc23c907ec&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=394721272&mcid2=0&origin=tct&mix=0&isp=
+https://hlsa-akm.douyucdn.cn/live/747764rQN67TutVA_900/playlist.m3u8?wsAuth=af65f58f3448761070a90e01da4f573c&token=web-h5-0-747764-72757a48f7b39f8daa69b9de137f7ffb5a4b11fdb574fdf3&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_224081905&pt=2&st=0&sid=395058664&mcid2=0&origin=tct&mix=0&isp=
 
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥",85894
 https://hlsa-akm.douyucdn.cn/live/85894rmovieChow_900/playlist.m3u8?wsAuth=8353f40dddb3356191f4b573784095d5&token=web-h5-0-85894-a3575d938a4aa309b50649f84845b49edb70643dd946a0e0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=390603539&mcid2=0&origin=tct&mix=0&isp=
