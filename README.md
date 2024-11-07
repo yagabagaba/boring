@@ -86,7 +86,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ahNrZdLUVpnLHphQbfob7g", "kid":"+E++gm0VdV75HryrZ8V9EA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="123.astro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Awesome_TV_Malaysia.png/150px-Awesome_TV_Malaysia.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",Awesome 
-https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_primary.mpd
+https://cdnatv.mirack.tv/Atv/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XzX4FWmRQOJknYJfDSQCjg", "kid":"F9XWLcYZVLgu4BbaJkq9EA" } ], "type":"temporary" }
