@@ -287,7 +287,7 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/EBONY.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="🎥",Sony Pix
-https://raw.githubusercontent.com/mystery75/m3u8/main/SONYPIX.m3u8
+https://streamer1.nexgen.bz/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="🎥",Miramax Movies Channel 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
