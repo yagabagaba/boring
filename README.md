@@ -162,8 +162,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png" group-title="🎥",VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.7.15-prod.release+b793db87 ExoPlayerLib/2.19.1
-https://flv.intechmedia.net/live/ch107.m3u8
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -292,6 +291,9 @@ https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1 tvg-id="US18000163F" tvg-chno="770" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Miramax.png" group-title="🎥",Miramax Movies Channel 
 https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 
+#EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="🎥",CineLife (1080p)
+https://magnolia-cinelife.amagi.tv/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=edf1a715de9748638dd2fad75a419af2&key=2f5a3199b26e9b693ae881af7ff864cf
 #EXTINF:-1 tvg-id="Animax HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",Animax 
@@ -300,15 +302,14 @@ https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.m
 #EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", 20415
 https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",747764
-https://hlsa-akm.douyucdn.cn/live/747764rQN67TutVA_4000/playlist.m3u8?wsAuth=2b043cc8f85a710b6e33d5ec1fdd56c9&token=web-h5-0-747764-72757a48f7b39f8de884e3e9330b9d3571b7e46e881fa33f&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=395058664&mcid2=0&origin=tct&mix=0&isp=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ACEbGD5.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",localish
+https://apollo.production-public.tubi.io/live/ac-localish.m3u8
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", 323876
-https://hlsa-akm.douyucdn.cn/live/747764rQN67TutVA_900/playlist.m3u8?wsAuth=af65f58f3448761070a90e01da4f573c&token=web-h5-0-747764-72757a48f7b39f8daa69b9de137f7ffb5a4b11fdb574fdf3&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_224081905&pt=2&st=0&sid=395058664&mcid2=0&origin=tct&mix=0&isp=
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bKpligT.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", revry 2
+https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-title="🎥",85894
-https://hlsa-akm.douyucdn.cn/live/85894rmovieChow_900/playlist.m3u8?wsAuth=8353f40dddb3356191f4b573784095d5&token=web-h5-0-85894-a3575d938a4aa309b50649f84845b49edb70643dd946a0e0&logo=0&expire=0&did=b6a22755bafd3570a85f218c00021701&ver=Douyu_222082905&pt=2&st=0&sid=390603539&mcid2=0&origin=tct&mix=0&isp=
-
+#EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" group-title="🎥",revry
+https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="🎥" tvg-logo="_______", CINEMA WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -384,22 +385,7 @@ https://i.mjh.nz/.r/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agen
 #EXTINF:-1 channel-id="mjh-sbs-chill" tvg-id="mjh-sbs-chill" tvg-logo="https://i.mjh.nz/.images/sbs-chill.png" group-title="🎥" , SBS Chill
 https://i.mjh.nz/.r/sbs-chill.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 tvg-name="" tvg-id="Cinema One (1.8s) Global" tvg-logo="https://10play.com.au/ip/s3/2022/12/05/6bb229de8fcf96e206e99ca455fc2267-1202912.png" group-title="🎥",moviesphere
-https://i.mjh.nz/.r/10-moviesphere.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://10play.com.au/ip/s3/2023/07/12/8cb62aeb9de0e12611b68059325da0f3-1248632.png" group-title="🎥",haunt tv
-https://i.mjh.nz/.r/10-haunt-tv.m3u8
-
-
-
-#EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="🎥",CineLife (1080p)
-https://magnolia-cinelife.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Crackle.us" tvg-country="US" tvg-language="English" tvg-logo="https://logos-world.net/wp-content/uploads/2022/04/Crackle-Symbol.png" group-title="🎥",Crackle (720p)
-https://crackle-plex.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://www.tvguide.com/a/img/resize/4d22b6867b91807c62af924cee98751273f5061c/hub/2022/10/11/8c099fc5-20e2-4076-99d7-2b9d31fc6d96/3p-logo-cb639105310.png?auto=webp&width=768" group-title="🎥",screambox
-https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
 
 
 
@@ -415,10 +401,8 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-country="RU;UA" tvg-language="Ukrainian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m2-ua.png" group-title="🎥",M2 (540p)
 http://live.m2.tv/hls3/stream.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-id="SEC Network" tvg-logo="https://iili.io/Jmo3RoP.png" group-title="🎥",WORLD TV Network (19.5s)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=882c9f5613b43b47adc70aa968a308ce:de534ef8914bfe62ba3cdd6bdb9e1c04
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+#EXTINF:-1 tvg-name="" tvg-id="SEC Network" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="🎥",cinemarama
+https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
 #EXTINF:-1 group-title="🎥" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46L9X34ta5c2AsXKOxjTJEajcOyJ79fjruA&usqp=CAU",now90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
@@ -438,10 +422,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_primary.mpd
 #EXTINF:-1 tvg-id="706.astro" tvg-logo="httpss://raw.githubusercontent.com/mystery75/logo/main/Hits.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",Hits  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"pNSb2ozSm6KIjHMrTn2dYw", "kid":"Qwfe9qKb7AgvjJPx+Y5ZEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="702.astro" tvg-logo="httpss://raw.githubusercontent.com/mystery75/logo/main/HITSNOW.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",Hits Now
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
@@ -514,8 +494,7 @@ https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a7
 #EXTINF:-1 tvg-id="6140" tvg-name="Bloomberg Originals" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="🎥",Bloomberg Originals
 https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="🎥",Fashion TV
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-despicable-me-4-2024-lk21-d21.jpg.webp" group-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-despicable-me-4-2024-lk21-d21.jpg.webp" group-title="21",despicable me 4
 https://stream.hownetwork.xyz/yyy/despicable-me-4-2024-webdl_X_42be0248/22/480.m3u8
