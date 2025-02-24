@@ -273,6 +273,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_primary.mpd
 #EXTINF:-1 tvg-id="701.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",Axn  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_primary.mpd
 
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://i.imgur.com/a5fw83n.jpg" group-logo="" group-title="🎥", mhz
+https://mhz-samsung-linear-ca.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://i.imgur.com/sOYAnTB.png" group-logo="" group-title="🎥", hi-yah
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Comet_logo.svg/512px-Comet_logo.svg.png" group-logo="" group-title="🎥", comet
+https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
+
+#EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://i.imgur.com/KbmXdjm.png" group-logo="" group-title="🎥",freebie tv
+https://d26pp4b7ojtlyn.cloudfront.net/scheduler/scheduleMaster/187.m3u8
+
 #EXTINF:-1 tvg-id="USBD17000117B" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/MovieSphereByLionsgate.png" group-logo="" group-title="🎥",MovieSphere By Lionsgate
 https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
 
@@ -294,6 +306,9 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/MIRAMAX.m3u8
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="🎥",CineLife (1080p)
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cKEwuQc.png" group-title="🎥", screambox
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/results.php?keyid=edf1a715de9748638dd2fad75a419af2&key=2f5a3199b26e9b693ae881af7ff864cf
 #EXTINF:-1 tvg-id="Animax HD" tvg-logo="https://poster.starhubgo.com/Linear_channels2/532_1920x1080_HTV.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",Animax 
@@ -304,6 +319,9 @@ https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACEbGD5.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",localish
 https://apollo.production-public.tubi.io/live/ac-localish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bKpligT.png" group-logo="https://www.washingtonblade.com/content/files/2020/01/QUEER_STREAMING_SERVICE_ADOPTS-LGBT_TOKEN_FEATURED_WB_10012020-e1578680670538.jpeg" group-title="🎥", revry her
+https://linear-73.frequency.stream/mt/brightcove/73/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bKpligT.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", revry 2
 https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
@@ -332,6 +350,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 
+#EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="🎥",ava
+https://familyhls.avatv.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Dubaione-logo.png" group-title="🎥",Dubai One (1080p)
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
@@ -385,9 +405,41 @@ https://i.mjh.nz/.r/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agen
 #EXTINF:-1 channel-id="mjh-sbs-chill" tvg-id="mjh-sbs-chill" tvg-logo="https://i.mjh.nz/.images/sbs-chill.png" group-title="🎥" , SBS Chill
 https://i.mjh.nz/.r/sbs-chill.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/AmcOAIY.png", cine5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png",vivo
+https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/Qu7t15Y.png",dlx dance
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/HimuPPb.png",dlx music
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/5edYPBO.png",xtra
+https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/Ft24x5T.png",mooz ro
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/GwATd3Y.png",mooz hits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/aX70RD2.png",mooz dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/E9ha9Or.png",popstar
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/9dz8MsD.png",tiktak
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/9dz8MsD.png",elektro
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/GuM4GnX.png",now rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/LQB6G3s.jpg",pop world tv
+https://janus.xpbroadcasting.com:8443/hls/popworld.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/Z7HUU7V.png",ru tv
+https://hls-03-video.webcaramba.com/rutv/live.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/rFQuAEv.png",stz tv
+https://cloudvideo.servers10.com:8081/stztelebista/index.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/DLIbUMx.png",urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/Vvxz6KX.png",trace hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8
 
 #EXTINF:-1 group-title="🎥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png",m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
