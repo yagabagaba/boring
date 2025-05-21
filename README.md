@@ -616,8 +616,8 @@ https://cloud.hownetwork.xyz//yyy/MRYmOWgOHyg2NFp-cwJjdTUdKyopJi8eejATL3cCMD0/32
 https://cloud.hownetwork.xyz//yyy/IRk5OiQQGWwjPBI-KlM3dSAKKDggVBkkNXwAIzFcMnVwSHt7aBsbNDAwDhMbbzRqe096d3Yb/32/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/03/film-mickey-17-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", mickey 17
 https://cloud.hownetwork.xyz//yyy/809b13488e01e8c348f949128d837a63/31/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2024/04/film-snack-shack-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21",snackshack
-https://stream.hownetwork.xyz/yyy/snack-shack-2024-webdl/21/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/03/film-the-electric-state-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", electric state
+https://cloud.hownetwork.xyz//yyy/99f9ebdf7b923b28faa345ec6bd0d33e/25/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2024/05/film-atlas-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21",atlas
 https://stream.hownetwork.xyz/yyy/atlas-2024-webdl_X_ce47c5b9/22/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2024/02/film-lisa-frankenstein-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", Lisa Frankestein
