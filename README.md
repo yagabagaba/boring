@@ -32,7 +32,7 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
 #EXTINF:-1 tvg-id="122.astro" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png" group-logo="" group-title="🎥",TVS
-https://github.com/MIFNtechnology/siaranMy/blob/main/channels/Tvs/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/250px-RTM_Asean_%282024%29.svg.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
@@ -110,19 +110,9 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTINF:-1 tvg-id="vtv.id" tvg-name="" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png" group-title="🎥",VTV
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-id="NET.id" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Net.png" group-title="🎥",NET.
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rs2dN1W/indikids-big-copy.png" group-title="🎥", INDI KIDS
-https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+
+
 
 #EXTINF:-1 tvg-name="" tvg-id="Channel NewsAsia HD" tvg-logo="https://i.ibb.co.com/RCS6JWF/cna.png" group-title="🎥",CNA 🇸🇬 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -158,8 +148,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2688.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="🎥",Star Movies
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMoviesSelect.png" group-title="🎥",Star Movies Select
-http://119.152.240.15:8001/play/a0i1/index.m3u8
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
