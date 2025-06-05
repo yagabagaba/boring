@@ -6,7 +6,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/TV2_RTM.png/220px-TV2_RTM.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",TV2
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
-#EXTINF:-1 tvg-id="103.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",TV3 
+#EXTINF:-1 tvg-id= tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",TV3 
 https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",TVokey
@@ -26,12 +26,12 @@ https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live08.mpd
 
 
-#EXTINF:-1 tvg-id="109.unifi" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="🎥",TV9ᵘⁿⁱᶠⁱ 
+#EXTINF:-1 tvg-id= tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png" group-logo="" group-title="🎥",TV9ᵘⁿⁱᶠⁱ 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
 https://unifi-live09.secureswiftcontent.com/UnifiHD/live09.mpd
 
-#EXTINF:-1 tvg-id="122.astro" tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png" group-logo="" group-title="🎥",TVS
+#EXTINF:-1 tvg-id= tvg-logo="https://playtv.unifi.com.my:7220/CPS/images/universal/film/logo/202401/20240108/2024010804385071891k.png" group-logo="" group-title="🎥",TVS
 https://mifntechnology.github.io/siaranMy/channels/TvS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/RTM_Asean_%282024%29.svg/250px-RTM_Asean_%282024%29.svg.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",ASEAN
@@ -43,6 +43,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
 #EXTINF:-1 tvg-name="" tvg-id="AstroAwani.my" tvg-logo="https://i.ibb.co.com/L5xTZgk/asawani.png" group-title="🎥",AWANI 
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+#EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AlJazeera.png" group-title="🎥",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/nhkworld.png" group-title="🎥",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 
@@ -51,24 +54,7 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12fee297311f4bab91367d0e9c3a0a2f:656071dbdffbda440a6fde4fda56de21
 https://atemeshield1-voe.sysln.id/live/eds/CartoonNetWHD/mpd/CartoonNetWHD.mpd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/nikledeon.png" group-title="🎥",Nickelodeon
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
-https://av-ch-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/nickjr.png" group-title="🎥",Nick Jr
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
-https://av-ch-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash/NickJr-HDD.mpd
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/aniplus.png" group-title="🎥",ANIPLUS
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/animax.png" group-title="🎥",Animax
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -77,7 +63,11 @@ https://op-group1-swiftservehd-1.dens.tv/h/h201/02.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SUKAN_RTM.jpg/220px-SUKAN_RTM.jpg" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",sukan
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+world-watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" tvg-chno="35" group-title="🎥" , SBS World Watch
+https://i.mjh.nz/.r/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
+#EXTINF:-1 channel-id="mjh-sbs-chill" tvg-id="mjh-sbs-chill" tvg-logo="https://i.mjh.nz/.images/sbs-chill.png" group-title="🎥" , SBS Chill
+https://i.mjh.nz/.r/sbs-chill.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 #EXTINF:-1 tvg-name="" tvg-id="Dunia Sinema HD" tvg-logo="https://i.ibb.co.com/JQL4v0H/duniasinema.png" group-title="🎥",DUNIA SINEMA 🇲🇾 (1.8s)
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
@@ -105,12 +95,6 @@ https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.m
 #KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/bbceart.png" group-title="IPTV",BBC EART
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
-https://av-ch-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash/BBCEarth-HD.mpd
 
 #EXTINF:-1 group-title="🎥" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/hgtv.png" ,HGTV Asia
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -430,11 +414,7 @@ https://i.mjh.nz/.r/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&user-age
 #EXTINF:-1 channel-id="mjh-sbs-nitv" tvg-id="mjh-sbs-nitv" tvg-logo="https://i.mjh.nz/.images/sbs-nitv.png" tvg-chno="34" group-title="🎥" , NITV
 https://i.mjh.nz/.r/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
 
-#EXTINF:-1 channel-id="mjh-sbs-world-watch" tvg-id="mjh-sbs-world-watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" tvg-chno="35" group-title="🎥" , SBS World Watch
-https://i.mjh.nz/.r/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
-
-#EXTINF:-1 channel-id="mjh-sbs-chill" tvg-id="mjh-sbs-chill" tvg-logo="https://i.mjh.nz/.images/sbs-chill.png" group-title="🎥" , SBS Chill
-https://i.mjh.nz/.r/sbs-chill.m3u8|x-forwarded-for=110.33.122.75&user-agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/98.0.4758.102%20Safari/537.36&seekable=0&referer=%20
+#EXTINF:-1 channel-id="mjh-sbs-world-watch" tvg-id="mjh-sbs-
 
 #EXTINF:-1 group-title="🎥" tvg-logo="https://i.imgur.com/AmcOAIY.png", cine5
 https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
@@ -505,8 +485,7 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AlJazeera.png" group-title="🎥",Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="🎥",Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="🎥",FTV
