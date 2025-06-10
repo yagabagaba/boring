@@ -555,3 +555,5 @@ https://cloud.hownetwork.xyz/xxx/JBc8IDEYHi9vPhFhOl8jLCpVe353TFo2JzMTIBxoCW51TXE
 https://cloud.hownetwork.xyz/xxx/NhAsYykcECQsNVojJR05OyoRZHx1S0JsNTQVKC9vDgdzSHx_JhpEdQ/32/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/03/film-fight-or-flight-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21" fight or flight
 https://cloud.hownetwork.xyz/xxx/ba0c5aa7fd81f3d6e943fa4cdecc254b/25/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/08/film-corner-office-2023-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21" CORNER OFFICE
+https://cloud.hownetwork.xyz/xxx/ec131a864a1928f8235a016fd8cf549e/1/480.m3u8
