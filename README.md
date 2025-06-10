@@ -548,6 +548,7 @@ hhttps://cloud.hownetwork.xyz/xxx/IBkqJWgQGWwjMgMlLF57anJKfGMnFQIzIygoFBwENDx1HH
 https://stream.hownetwork.xyz/yyy/boy-kills-world-2024-webdl_X_17491eaf/22/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/05/film-fountain-of-youth-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", fountain of youth
 https://cloud.hownetwork.xyz/xxx/JBc8IDEYHi9vPhFhOl8jLCpVe353TFo2JzMTIBxoCW51TXEodk9C/32/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/04/film-black-bag-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21" black bag
-https://cloud.hownetwork.xyz/xxx/IBQoLS5UFSAlfEV8cQV7Oi4NOy88Ji8ecDJAdXUBZzw/32/480.m3u8
-
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/05/film-the-legend-of-ochi-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21" ochi
+https://cloud.hownetwork.xyz/xxx/NhAsYykcECQsNVojJR05OyoRZHx1S0JsNTQVKC9vDgdzSHx_JhpEdQ/32/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/03/film-fight-or-flight-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21" fight or flight
+https://cloud.hownetwork.xyz/xxx/ba0c5aa7fd81f3d6e943fa4cdecc254b/25/480.m3u8
