@@ -20,8 +20,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv7my.png" group-title="🎥",NTV7
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv7my.png" group-title="🎥",enjoy tv5
-https://singapore-64.restream.io/preview-stream-2/re_9883499_0304e857beb258e5e06f_select05f3fab8-de05-4459-a3d6-734a4da63ba5.mp4?
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
