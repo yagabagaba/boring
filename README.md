@@ -765,3 +765,7 @@ https://cloud.hownetwork.xyz//yyy/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
 https://cloud.hownetwork.xyz//yyy/LR4vYzEREmwlIx4obgJmandVPisnHRseGg5DKCJUZzpzHQ/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-kpop-demon-hunters-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", kpop demon hunter
 https://cloud.hownetwork.xyz//yyy/KQgmPmgdEiwtP1okNl4iPTALZHx1S0JsNTQVKC9vDgcnSystJEpDdA/33/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/07/film-m3gan-2-0-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", MEGAN 2
+https://cloud.hownetwork.xyz//yyy/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYRR1FBwOJxERIUtBeHNhRHw/34/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", JURASSIC WORLD REBIRTH
+https://cloud.hownetwork.xyz//yyy/L0suLytURWxyfEV8cQV7Dwc6DQIaISggI2BAKnVVbw/33/804.m3u8
