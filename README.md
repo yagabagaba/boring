@@ -767,28 +767,28 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",ROUGE
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/07/film-keluang-man-2025-lk21-d21.jpg.webp" group-logo="https://s4.lk21static.buzz/wp-content/uploads/2024/07/film-despicable-me-4-2024-lk21-d21.jpg.webp" group-title="21",keluangman
-https://cloud.hownetwork.xyz//yyy/KR0lOyQXEGwvMBlhcQBkbW8PLCwhFSgZHTcTfnoIM2t3/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/05/film-lilo-stitch-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", lilo stitch
-https://cloud.hownetwork.xyz//yyy/LhElIWgKAyg2Mh9hcQBkbW8PLCwhFSgZHTVDLSYJYzx6/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/05/film-thunderbolts-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", thunderbolt
-https://cloud.hownetwork.xyz//yyy/NhA8ICEcBSMtPQM_bgJmandVPisnHRseGg5GKHpVZz5wSw/33/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp" group-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp" group-title="21",suparman
+https://cloud.hownetwork.xyz/xxx/MQ05KzcUFi9vY0d-dh0BHQA8BREdJhV5cTNGeScD/34/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-naked-gun-2025-lk21-1.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", naked gun
+https://cloud.hownetwork.xyz/xxx/LBkiKyFUEDQsfEV8cQV7Dwc6DQIaISglcjAWL3cJYQ/34/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-mission-impossible-the-final-reckoning-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", mission imposible 2025
+https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEUdRQcDicREScdFHkgMBF6/34/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-riff-raff-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", riff raff
 https://cloud.hownetwork.xyz//yyy/MBEvKGgLFickfEV8cQV7Oi4NOy88Ji8eemYUKHAAMjs/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/03/film-mickey-17-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", mickey 17
-https://cloud.hownetwork.xyz//yyy/809b13488e01e8c348f949128d837a63/31/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/03/film-the-electric-state-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", electric state
-https://cloud.hownetwork.xyz//yyy/99f9ebdf7b923b28faa345ec6bd0d33e/25/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-predator-killer-of-killers-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", Predator Killer of killer
-https://cloud.hownetwork.xyz//yyy/MgosKiQNGDNvOh4gL1UkdS0eZCUsFRskMCJafnMCY3U1HSsqKSYvHncwQHQgAmdg/32/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/02/film-dog-man-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", Dog Man
-https://cloud.hownetwork.xyz//yyy/64a1451c538da03c8d0d6e991f634d72/25/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-deep-cover-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", Deep Cover
-https://cloud.hownetwork.xyz//yyy/Jh0sPmgaGDcnI1p-cwJjdTUdKyopJi8eITQTfSAFNDw/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/03/film-the-parenting-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", Parenting
-https://cloud.hownetwork.xyz//yyy/9f41fe6dcf61497e9df6874cf7ad9a34/25/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/03/film-plankton-the-movie-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", Plankton
-https://cloud.hownetwork.xyz//yyy/4a72633195691748de4ca2a1b82a3e52/25/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-f1-the-movie-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", F1
+https://cloud.hownetwork.xyz/xxx/JElkOi0cWiwtJx4pbgJmandVHgsHPTseGg5PfiYGYDx7QA/34/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-sketch-2025-lk21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", sketch
+https://cloud.hownetwork.xyz/xxx/MRMsOiYRWnNyY0JhFHUUHA4nEREmTEZwcjJPfg/34/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-elio-2025-lk21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", elio
+https://cloud.hownetwork.xyz/xxx/JxQgIWhLR3N3fCAJAXQaBxoneC92SEV3djU/34/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-fixed-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", fixed
+https://cloud.hownetwork.xyz/xxx/JBExKyFURXFwZFobBnISFB0gFnsmTE8lIDRE/34/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-smurfs-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", smurfs
+https://cloud.hownetwork.xyz/xxx/MRU8PCMKWnNyY0JhFHUUHA4nEREmGEMlJ2ZEfQ/34/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-bride-hard-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", bride hard
+https://cloud.hownetwork.xyz/xxx/IAogKiBUHyAwNVp-cwJjdRU9CwoJJi8eIGNDeSJTYW4/33/480.m3u8
+#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-almost-cops-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", almost cop
+https://cloud.hownetwork.xyz/xxx/IxQkITYNWiItIQRhcQBkbW8PLCwhFSgZHWESeyAIYDl6/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/01/film-man-with-no-past-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", man no past
 https://cloud.hownetwork.xyz//yyy/3f48d48213660df0152f4908e0f72362/26/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/04/film-a-working-man-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", workingman
@@ -814,13 +814,13 @@ https://cdn3.turboviplay.com/data1/6847b07591079/6847b07591079.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/05/film-karate-kid-legends-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", karate kid
 https://cloud.hownetwork.xyz//yyy/KRk7LzEcWiorNVogJlczNiYLZHx1S0JsNTQVKC9vDgd2HC99fBxCcw/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/07/film-high-rollers-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", high rollers
-https://cloud.hownetwork.xyz//yyy/KhEuJmgLGC0uNAU_bgJmandVPisnHRseGg4UfnYCNDp1TA/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/KhEuJmgLGC0uNAU_bgJmandVPisnHRseGg4UfnYCNDp1TA/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/07/film-guns-up-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", guns up
 https://cloud.hownetwork.xyz//yyy/JQ0nPWgMB2xwYUV5bkczOiYUFhYaGBJ5JmRGKnE/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/07/film-dora-and-the-search-for-sol-dorado-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", dora
-https://cloud.hownetwork.xyz//yyy/Jhc7L2gYGSVvJR8pbkMzOTAbIWMjFgVsMT4bYSdfJDkmF2R8dUtCbDU0FSgvbw4HckAoeCAfQHY/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/Jhc7L2gYGSVvJR8pbkMzOTAbIWMjFgVsMT4bYSdfJDkmF2R8dUtCbDU0FSgvbw4HckAoeCAfQHY/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/07/film-heads-of-state-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", head of state
-https://cloud.hownetwork.xyz//yyy/Kh0oKjZUGCdvIgMtN1V7anJKfGMyHBUlLg4vEyZTYmx3HSt2/33/480.m3u8
+https://cloud.hownetwork.xyz/xxx/Kh0oKjZUGCdvIgMtN1V7anJKfGMyHBUlLg4vEyZTYmx3HSt2/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-from-the-world-of-john-wick-ballerina-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", ballerina
 https://cloud.hownetwork.xyz//yyy/JAomI2gNHyRvJhg-L1R7NyRVIyEtF1o2KzIcYSFROjQnCiAgJFRFcXBkWjsmUjI0HSAWKyFIEyAjMkA/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-g20-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", G20
@@ -832,6 +832,6 @@ https://cloud.hownetwork.xyz//yyy/LR4vYzEREmwlIx4obgJmandVPisnHRseGg5DKCJUZzpzHQ
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-kpop-demon-hunters-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", kpop demon hunter
 https://cloud.hownetwork.xyz//yyy/KQgmPmgdEiwtP1okNl4iPTALZHx1S0JsNTQVKC9vDgcnSystJEpDdA/33/480.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/07/film-m3gan-2-0-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", MEGAN 2
-https://cloud.hownetwork.xyz//yyy/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYRR1FBwOJxERIUtBeHNhRHw/34/480.m3u8
+https://cloud.hownetwork.xyz/xxx/L0suLytURWxyfEV8cQV7Dwc6DQIaISggI2BAKnVVbw/33/804.m3u8
 #EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", JURASSIC WORLD REBIRTH
-https://cloud.hownetwork.xyz//yyy/L0suLytURWxyfEV8cQV7Dwc6DQIaISggI2BAKnVVbw/33/804.m3u8
+https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYQFcIwojARYWGk9HJCRoFChz/34/480.m3u8
