@@ -26,10 +26,49 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|authorization=Bearer 
 https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/riafhd.png" group-title="🎥",119 Ria C FHD
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=riafhd
-#EXTINF:-1 tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="🎥",121
+
+
+#EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🎥" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/citra.png" ,121 
+#Citra KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=84bf9ad6848be7db20f9d16823deef10:654f2d25a5bfb27c9e5ae0852584a166 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
+#Chrome/124.0.0.0 Safari/537.36
 https://get.perfecttv.net/astro_master.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=astrocitra
+
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="🎥" tvg-id="113.astro" tvg-logo="https://get.perfecttv.net/logo/aura.png" ,122 Aura
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=aura
+	
+#EXTINF:-1 group-logo="https://is.gd/dvboM8.png" group-title="🎥" tvg-id="112.astro" tvg-logo="https://get.perfecttv.net/logo/rania.png" ,123 Rania
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/astro_10802.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=rania
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/jomngaji.png" ,124 Jom Ngaji
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=10062fbd-3f7d-49e1-8f2b-95cd04543d7d
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/lawaksentral.png" ,125 Lawak Sentral
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://1938ecee77d844ba8727487421f36e44.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH3_LAWAK/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=440ab476-481d-4d09-b7b0-3664e8652ede
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/ohmyceria.png" ,126 Oh My Ceria
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd?aws.sessionId=653a17be-4813-4757-8724-ae68ab7a34b7
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/dramahebat.png" ,127 Drama Hebat
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH1_DRAMAHEBAT/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=449fab5e-19fb-4843-9cc5-8209e03a725d
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/filemmantap.png" ,128 Filem Mantap
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH2_FILEMMANTAP/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=273a091c-2f5b-4571-bf71-269dbd89263e
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",TVokey
@@ -132,19 +171,56 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/nikledeon.png" group-title="🎥",Nickelodeon
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ef4d19eafa0d4dcbb6a247e13753caab:a693256564fea641b5c4fc59adbdcf10
-https://atemecdnbalancer-voe.sysln.id/live/eds/Nickelodeon/mpd/Nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="CartoonNetwork.MACAN" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/nickjr.png" group-title="🎥",Nick Jr
-#EXTVLCOPT:http-referrer=https://www.firstmedia.com
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+
+#=====kids=========
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,205 Ceria
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=928de1d7673c4fdd8ff22287fbec3c14:3955eb1e2dd8ac29a778bc572dd64794
-https://atemecdnbalancer-voe.sysln.id/live/eds/NickJr/mpd/NickJr.mpd
+#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=ceria|User-Agent=Mozilla/5.0 (Linux; Android 14; SMRV076G Build/UKQ1.240805.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/134.0.6950.85 Mobile Safari/537.366
+			
+#EXTINF:-1 player-buffer="6" group-logo="" group-title="🎥" tvg-id="555.unifi" ch-number="555" tvg-logo="https://get.perfecttv.net/logo/cartoonito.png" group-logo="", 206 Cartoonito
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YWJlZmRiODAtNmMwZS0zOGEzLWJmYzAtMzY4MDRiOTFhNWU1
+https://web.hypp.tv:443/PLTV/88888888/224/3221227534/3221227534.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHORk%2F7o9ZSvEMcHdX5yljqg9BPtBbwcQhknqc39VUJpD%2FHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124094239%3AUTC%2C1001767137%2C115.164.56.153%2C20221124094239%2Curn:Huawei:liveTV:SP0010059884%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C595%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOUQuCMBzEv80exzaHtoc9FUEQFmS9xt_5d4nT1aZC3z4tezq4u99xQwCDh50uJcs4T6DeGClnUSZLZFIyxoSCjEsS8ZV7LYgB55re5r5asNtle-eMMioEp1yQYpnbO7BrMx-7EoNO_tgFw9QY1FWs6QSRgrUBLQyN7-nZwfsa3FohWKzXeJoqoVjGUqUkGRa3gNjOCXlA3PruCQGro7dfQNfgIpInmBYs5tCh7kfnftwpVPObD9dw2Of0AAAA&tenantId=6001
+
+#EXTINF:-1 tvg-id="551.unifi" tvg-name"Moonbug Kids" group-title="🎥" tvg-logo="https://get.perfecttv.net/logo/moonbug.png" ,207 Moonbug
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=moonbug
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="616.astro" tvg-logo="https://get.perfecttv.net/logo/nickelodeon.png" group-logo="" , 208 Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=nickelodeon
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="617.astro" tvg-logo="https://get.perfecttv.net/logo/nickjr.png" group-logo="", 209 Nick Junior
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
+http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default_ott.mpd
+
+
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="" group-title="🎥" tvg-logo="https://get.perfecttv.net/logo/cn.png" group-logo="",211 Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
+http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="620.astro" tvg-logo="https://get.perfecttv.net/logo/cbeebies.png", 212 CBeebies   
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5093/default_ott.mpd
+
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="620.astro" tvg-logo="https://get.perfecttv.net/logo/blippi.png", 213 Blippi and Friends   
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5175/default_ott.mpd
 
 EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/kidstv.png" group-title="🎥",KIDS TV
 #EXTVLCOPT:http-referrer=https://visionplus.id/
