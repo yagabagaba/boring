@@ -14,6 +14,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
 https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=tv3
 
+#EXTINF:-1 tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="🎥",109 Awesome
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
+
 #EXTINF:-1 tvg-id="RTB Sukmaindera" ch-number="" tvg-name="AWESOME TV" group-title="🎥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
@@ -26,7 +29,10 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 #https://get.perfecttv.net/1080.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|authorization=Bearer 
 https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=primafhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 
-#EXTINF:-1 tvg-id="okey" ch-number="" tvg-name="Enjoy TV5" group-title="MALAYSIA" tvg-logo="https://get.perfecttv.net/logo/enjoytv5.png", 109 Enjoy TV5
+#EXTINF:-1 tvg-name="121 Citra(B)" tvg-logo="https://get.perfecttv.net/logo/citra.png" group-title="🎥",121 Citra(B)
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
+
+#EXTINF:-1 tvg-id="okey" ch-number="" tvg-name="Enjoy TV5" group-title="🎥" tvg-logo="https://get.perfecttv.net/logo/enjoytv5.png", 109 Enjoy TV5
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
 
 
@@ -462,6 +468,9 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=hbofamily
 
+#EXTINF:-1 tvg-name="143 HBO Signature" tvg-logo="https://get.perfecttv.net/logo/hbosingnature.png" group-title="🎥",143 HBO Signature
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2709.ts
+
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" group-title="🎥" tvg-logo="https://get.perfecttv.net/logo/cinemax.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png",145 CINEMAX
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -531,6 +540,9 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2686.ts
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/SonyPixV3.png" group-title="🎥",Sony Pix
 https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
 #####https://otttv.co.in/d2h/livestream/sony-pix-hd/
+
+#EXTINF:-1 tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="🎥",153 Star Movies Select
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4602.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="🎥",Star Movies
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
