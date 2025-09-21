@@ -776,7 +776,7 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 http://live.m2.tv/hls3/stream.m3u8
 
 #EXTINF:-1 tvg-id="M2.ua" tvg-country="RU;UA" tvg-language="Ukrainian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m2-ua.png" group-title="music",salon
-https://ewa.playerp2p.live/hls/v-vnHNNKXAgRNlcsaBNdwQ/x68/nc31j51c/pdsx93/tt/index-f1-v1-a1.m3u8?v=1758285760
+https://be6721.rcr72.waw04.i8yz83pn.com/hls2/05/09895/1m05kg1hk4yr_x/index-v1-a1.m3u8?t=YJ6Dl42IOWcQVup86Os7AyvKHD9Sb8Yt2duG0jcCR-E&s=1758441268&e=10800&f=49477490&srv=1070&asn=4788&sp=5500&p=
 
 #EXTINF:-1 tvg-name="" tvg-id="SEC Network" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="music",cinemarama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
