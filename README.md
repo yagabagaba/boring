@@ -17,11 +17,6 @@ https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&chan
 #EXTINF:-1 tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="🎥",109 Awesome
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
-#EXTINF:-1 tvg-id="RTB Sukmaindera" ch-number="" tvg-name="AWESOME TV" group-title="🎥" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png", AWESOME TV
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60f202b16407fedd8e369c32af57dd10:c8475231c09dc1b639886976b6fc7575
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
 
 #EXTINF:-1 group-logo="https://is.gd/prima.png" group-title="🎥" tvg-id="105.astro" tvg-logo="https://get.perfecttv.net/logo/primafhd.png" ,118 Prima FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -34,11 +29,6 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2679.ts
 
 #EXTINF:-1 tvg-id="okey" ch-number="" tvg-name="Enjoy TV5" group-title="🎥" tvg-logo="https://get.perfecttv.net/logo/enjoytv5.png", 109 Enjoy TV5
 https://get.perfecttv.net/mytv.m3u8?channel=tv5
-
-
-#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/jomngaji.png" ,124 Jom Ngaji
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
-https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH6_JOMNGAJI/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=10062fbd-3f7d-49e1-8f2b-95cd04543d7d
 
 #EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/lawaksentral.png" ,125 Lawak Sentral
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
@@ -57,9 +47,6 @@ https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab3362
 https://df14pcdp16s98.cloudfront.net/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH2_FILEMMANTAP/dash.mpd?username=vip_3klp0es8&password=wg3piwEs&aws.sessionId=273a091c-2f5b-4571-bf71-269dbd89263e
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",TVokey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 
@@ -69,7 +56,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tv7my.png" group-title="🎥",NTV7
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -137,11 +123,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c9
 #EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/AlJazeera.png" group-title="🎥",Al Jazeera
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
-#EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png" group-title="🎥", kan 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-
-#EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" group-title="🎥", kan23
-https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/nhkworld.png" group-title="🎥",NHK World Japan
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
@@ -445,7 +426,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/in
 
 
 
-##EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,141 HBO
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="" tvg-logo="https://get.perfecttv.net/logo/hbohd.png" ,141 HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -546,17 +527,7 @@ http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4602.ts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/StarMovies.png" group-title="🎥",Star Movies
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2687.ts
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-#EXTINF:-1 tvg-id="TAPMOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="🎥",Tap Movies
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-#EXTINF:-1 tvg-id="TAPACTIONFLIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqmQyNNz--w-zNPAVx8fJLWG1xYahFiohWA&s" group-title="🎥",Tap Action Flix
-https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 #EXTINF:-1 tvg-id="CineLife.us" tvg-country="US" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/TRj4zx_xl4QA3JO7DwqalxZwshmhxEzg0QzP1sT3Uv99p4izfj9S_yPZD4oVkFUxMNA" group-title="🎥",CineLife (1080p)
 https://magnolia-cinelife.amagi.tv/playlist.m3u8
@@ -590,10 +561,6 @@ https://raw.githubusercontent.com/mystery75/m3u8/main/EBONY.m3u8
 https://raw.githubusercontent.com/mystery75/m3u8/main/HERSPHERE.m3u8
 
 
-
-
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
@@ -624,16 +591,17 @@ https://jmp2.uk/sam-GB2600014LQ.m3u8
 #EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="🎥" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
 https://jmp2.uk/sam-GB2600013BO.m3u8
 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+#EXTINF:-1 tvg-id="TAPMOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/TapMovies-ph.png" group-title="🎥",Tap Movies
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="https://liquipedia.net/commons/images/5/57/DouyuLOGO.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥", 20415
-https://hls1a-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=6fdc34a0fcaf1838b707a8de87f18527&token=web-h5-0-20415-b6774b3b3249db1717d0c07d4ce9a1bbd846dc8a189891b6&logo=0&expire=0&did=454ac73f2eb970914801dd8e00091601&ver=Douyu_222082905&pt=2&st=0&sid=355523749&origin=tct&mix=0&isp=
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
+#EXTINF:-1 tvg-id="TAPACTIONFLIX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDqmQyNNz--w-zNPAVx8fJLWG1xYahFiohWA&s" group-title="🎥",Tap Action Flix
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ACEbGD5.png" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",localish
 https://apollo.production-public.tubi.io/live/ac-localish.m3u8
@@ -646,10 +614,6 @@ https://linear-5.frequency.stream/mt/brightcove/5/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$" group-title="🎥",revry
 https://linear-181.frequency.stream/mt/brightcove/181/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/SUKAN_RTM.jpg/220px-SUKAN_RTM.jpg" group-logo="https://ecentral.my/wp-content/uploads/2023/05/LOGO-MALAYSIA-MADANI-SAHAJA-768x1278.png" group-title="🎥",sukan
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
-
 
 
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://i.imgur.com/QwBGLzK.png" group-title="🎥",ava
@@ -672,6 +636,11 @@ https://mbc5-prod-dub-enc.edgenextcdn.net/out/v1/2720564b6a4641658fdfb6884b160da
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 #EXTINF:-1 tvg-id="DubaiOne.ae" tvg-country="ARAB" tvg-language="English;Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg?v=6" group-title="🎥",mbc drama+
 https://mbcplusdrama-prod-dub-enc.edgenextcdn.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/559px-Reshet13Logo2022.svg.png" group-title="🎥", kan 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+
+#EXTINF:-1 tvg-id="AlJaz" tvg-name="AlJazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/640px-KanHinuchit.svg.png" group-title="🎥", kan23
+https://kan23.media.kan.org.il/hls/live/2024691/2024691/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/tvrisport.png" group-title="sport",TVRI SPORT
@@ -844,22 +813,6 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 #EXTINF:-1 group-title="music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46L9X34ta5c2AsXKOxjTJEajcOyJ79fjruA&usqp=CAU",now90s
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-
-
-
-
-
-
-     
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",Fashion TV
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",FTV
@@ -869,71 +822,3 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",ROUGE
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp" group-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-superman-2025-lk21-d21.jpg.webp" group-title="21",suparman
-https://cloud.hownetwork.xyz/xxx/MQ05KzcUFi9vY0d-dh0BHQA8BREdJhV5cTNGeScD/34/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/09/film-naked-gun-2025-lk21-1.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", naked gun
-https://cloud.hownetwork.xyz/xxx/LBkiKyFUEDQsfEV8cQV7Dwc6DQIaISglcjAWL3cJYQ/34/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/05/film-mission-impossible-the-final-reckoning-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", mission imposible 2025
-https://cloud.hownetwork.xyz/xxx/LxE6PSwWGWwrPAcjMEM_Oi4dZDotHFonKz8WIG5CMzspFycnKx5ac3JjQmEUdRQcDicREScdFHkgMBF6/34/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-riff-raff-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", riff raff
-https://cloud.hownetwork.xyz//yyy/MBEvKGgLFickfEV8cQV7Oi4NOy88Ji8eemYUKHAAMjs/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-f1-the-movie-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", F1
-https://cloud.hownetwork.xyz/xxx/JElkOi0cWiwtJx4pbgJmandVHgsHPTseGg5PfiYGYDx7QA/34/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-sketch-2025-lk21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", sketch
-https://cloud.hownetwork.xyz/xxx/MRMsOiYRWnNyY0JhFHUUHA4nEREmTEZwcjJPfg/34/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-elio-2025-lk21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", elio
-https://cloud.hownetwork.xyz/xxx/JxQgIWhLR3N3fCAJAXQaBxoneC92SEV3djU/34/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/08/film-fixed-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", fixed
-https://cloud.hownetwork.xyz/xxx/JBExKyFURXFwZFobBnISFB0gFnsmTE8lIDRE/34/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-smurfs-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", smurfs
-https://cloud.hownetwork.xyz/xxx/MRU8PCMKWnNyY0JhFHUUHA4nEREmGEMlJ2ZEfQ/34/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-bride-hard-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", bride hard
-https://cloud.hownetwork.xyz/xxx/IAogKiBUHyAwNVp-cwJjdRU9CwoJJi8eIGNDeSJTYW4/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://poster.lk21.party/wp-content/uploads/2025/07/film-almost-cops-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", almost cop
-https://cloud.hownetwork.xyz/xxx/IxQkITYNWiItIQRhcQBkbW8PLCwhFSgZHWESeyAIYDl6/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/01/film-man-with-no-past-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", man no past
-https://cloud.hownetwork.xyz//yyy/3f48d48213660df0152f4908e0f72362/26/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/04/film-a-working-man-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", workingman
-https://cdn3.turboviplay.com/data/683fb84e62cae/683fb84e62cae.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/06/film-shadow-force-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", shadow force
-https://cloud.hownetwork.xyz/xxx/MRAoKioOWictIxQpbgJmandVPisnHRseGg5PfXoENzx1Gg/32/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-in-the-lost-lands-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", lost land
-https://cloud.hownetwork.xyz/xxx/KxZkOi0cWi0tIgNhL1E4PDFVe353TFojLiQFLTpvDgdySXp3dEpPJQ/32/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/01/film-back-in-action-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", back in action
-hhttps://cloud.hownetwork.xyz/xxx/IBkqJWgQGWwjMgMlLF57anJKfGMnFQIzIygoFBwENDx1HHt4IA/32/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2024/06/film-boy-kills-world-2024-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", boy kills world
-https://stream.hownetwork.xyz/yyy/boy-kills-world-2024-webdl_X_17491eaf/22/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2025/05/film-fountain-of-youth-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", fountain of youth
-https://cloud.hownetwork.xyz/xxx/JBc8IDEYHi9vPhFhOl8jLCpVe353TFo2JzMTIBxoCW51TXEodk9C/32/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/05/film-the-legend-of-ochi-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", ochi
-https://cloud.hownetwork.xyz/xxx/NhAsYykcECQsNVojJR05OyoRZHx1S0JsNTQVKC9vDgdzSHx_JhpEdQ/32/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s0.lk21static.buzz/wp-content/uploads/2025/03/film-fight-or-flight-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", fight or flight
-https://cloud.hownetwork.xyz/xxx/ba0c5aa7fd81f3d6e943fa4cdecc254b/25/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s5.lk21static.buzz/wp-content/uploads/2023/08/film-corner-office-2023-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", CORNER OFFICE
-https://cloud.hownetwork.xyz/xxx/ec131a864a1928f8235a016fd8cf549e/1/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-the-amateur-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", AMARTEUR
-https://cdn3.turboviplay.com/data1/6847b07591079/6847b07591079.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/05/film-karate-kid-legends-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", karate kid
-https://cloud.hownetwork.xyz//yyy/KRk7LzEcWiorNVogJlczNiYLZHx1S0JsNTQVKC9vDgd2HC99fBxCcw/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/07/film-high-rollers-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", high rollers
-https://cloud.hownetwork.xyz/xxx/KhEuJmgLGC0uNAU_bgJmandVPisnHRseGg4UfnYCNDp1TA/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s3.lk21static.buzz/wp-content/uploads/2025/07/film-guns-up-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", guns up
-https://cloud.hownetwork.xyz//yyy/JQ0nPWgMB2xwYUV5bkczOiYUFhYaGBJ5JmRGKnE/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/07/film-dora-and-the-search-for-sol-dorado-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", dora
-https://cloud.hownetwork.xyz/xxx/Jhc7L2gYGSVvJR8pbkMzOTAbIWMjFgVsMT4bYSdfJDkmF2R8dUtCbDU0FSgvbw4HckAoeCAfQHY/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/07/film-heads-of-state-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", head of state
-https://cloud.hownetwork.xyz/xxx/Kh0oKjZUGCdvIgMtN1V7anJKfGMyHBUlLg4vEyZTYmx3HSt2/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/06/film-from-the-world-of-john-wick-ballerina-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", ballerina
-https://cloud.hownetwork.xyz//yyy/JAomI2gNHyRvJhg-L1R7NyRVIyEtF1o2KzIcYSFROjQnCiAgJFRFcXBkWjsmUjI0HSAWKyFIEyAjMkA/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s7.lk21static.buzz/wp-content/uploads/2025/04/film-g20-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", G20
-https://cloud.hownetwork.xyz//yyy/LBc_ISYYHi8nfEV8cQV7Oi4NOy88Ji8eI2lPKHZUMGA/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/04/film-novocaine-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", novocaine
-https://cloud.hownetwork.xyz//yyy/136af2febe914252832a4e85aafbf7ef/31/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s2.lk21static.buzz/wp-content/uploads/2025/06/film-off-the-grid-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", off the grid
-https://cloud.hownetwork.xyz//yyy/LR4vYzEREmwlIx4obgJmandVPisnHRseGg5DKCJUZzpzHQ/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s4.lk21static.buzz/wp-content/uploads/2025/06/film-kpop-demon-hunters-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", kpop demon hunter
-https://cloud.hownetwork.xyz//yyy/KQgmPmgdEiwtP1okNl4iPTALZHx1S0JsNTQVKC9vDgcnSystJEpDdA/33/480.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s6.lk21static.buzz/wp-content/uploads/2025/07/film-m3gan-2-0-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", MEGAN 2
-https://cloud.hownetwork.xyz/xxx/L0suLytURWxyfEV8cQV7Dwc6DQIaISggI2BAKnVVbw/33/804.m3u8
-#EXTINF:-1 tvg-id="603.astro" tvg-logo="https://s1.lk21static.buzz/wp-content/uploads/2025/07/film-jurassic-world-rebirth-2025-lk21-d21.jpg.webp" group-logo="https://s7.lk21static.buzz/wp-content/uploads/2024/05/film-the-fall-guy-2024-lk21-d21.jpg.webp" group-title="21", JURASSIC WORLD REBIRTH
-https://cloud.hownetwork.xyz/xxx/KA07LzYKHiJvJhg-L1R7KicaIDwxEVpzcmNCYQFcIwojARYWGk9HJCRoFChz/34/480.m3u8
