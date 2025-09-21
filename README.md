@@ -775,6 +775,9 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="M2.ua" tvg-country="RU;UA" tvg-language="Ukrainian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m2-ua.png" group-title="music",M2 (540p)
 http://live.m2.tv/hls3/stream.m3u8
 
+#EXTINF:-1 tvg-id="M2.ua" tvg-country="RU;UA" tvg-language="Ukrainian" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m2-ua.png" group-title="music",sdmf204
+https://cdn2.playdulu.xyz/stream/variant/MJExBJSwBGWyAwOwZGSyAGx0LGx3BJZ3AGWuA2R0AzZ2MwquZwEzMJWwLJHlMTEvMGpjZzD4BJRmAwIyMTWyZP5GDaOkBJgdG09sqH50JHkvp19PqSWaYx9zGyA0Kl16qIuiGxqOEQqkIQWHERt3nSOspycZZzyvMRSznHyQJIqDLISlBRAKZwSkqauinUEMM2IeH3SSAax/MTAuLwD2AGDjMwMvMwH0LzSwLmSyAGDmLzRmAwD2ZQuvAGpmLGV5MwyvAwOzBJZlBJMyZTH4MGp5AQRjZ2RmZF45JxEMIJWXpRAxIUcmIaulnzblAyqaYaAXAwOGoJguoyWlYIV1oy9dMSD5Zzp/ZQZ0ZmN2LzEzLJH4AmqvATWuBQp4MGp3AmZjZwHjZzV2ZGxmMwNlAQNmZQx1BJZ4MTHmL2ExMGt3AmDkAzVmAl5kLycjLH1FqJWnIJWcMaITMHMTHSOaYaImGKMSrQEJnSR3nxx5A0uSpGSDA1c3GwIiA1u4oJp1IUSloKIQnR9UMmOGoUpmnmuknJ9sDIAfoTyJEGORLxR.m3u8
+
 #EXTINF:-1 tvg-name="" tvg-id="SEC Network" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw" group-title="music",cinemarama
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
