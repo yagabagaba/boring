@@ -793,5 +793,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",ROUGE
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-title="21",Ejen Ali 2
-https://be7713.rcr82.waw05.i8yz83pn.com/hls2/06/09980/nuoao774evsk_h/master.m3u8?t=1NieOGo3Wqz4npUGnuFANsS_8nsL4Dnd5WhrNn0FK4s&s=1760329393&e=10800&f=49903849&srv=1065&asn=4788&sp=4000&p=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-title="21",Ejen Ali 2
+https://dingtezuni.com/stream/ZYYcaMKkJn-lmLlMj19icQ/hjkrhuihghfvu/1760373448/32375173/master.m3u8
