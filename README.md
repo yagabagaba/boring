@@ -795,3 +795,6 @@ https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-title="21",Ejen Ali 2
 https://dingtezuni.com/stream/ZYYcaMKkJn-lmLlMj19icQ/hjkrhuihghfvu/1760373448/32375173/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/07/ombsmhYUqR4qqOLOxAyr5V8hbyv-60x90.jpg" group-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-title="21",superman
+https://mivalyo.com/stream/3D9gvp4D4T1Yb8-EJw4bxQ/hjkrhuihghfvu/1760381553/30348304/master.m3u8
