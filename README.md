@@ -794,7 +794,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-title="21",Ejen Ali 2
-https://dingtezuni.com/stream/ZYYcaMKkJn-lmLlMj19icQ/hjkrhuihghfvu/1760373448/32375173/master.m3u8
+https://m5qqjwpatpzb.acek-cdn.com/hls2/01/06458/xt0dlwpythln_n/master.m3u8?t=rW-GZkfsBzOOsTpUZ_rb_mHaWsjHXpBuUSGoJJuR578&s=1765864323&e=129600&f=32291363&srv=UuW41VuwCiSR&i=0.4&sp=500&p1=UuW41VuwCiSR&p2=UuW41VuwCiSR&asn=4788
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://139.59.9.137/wp-content/uploads/2025/07/ombsmhYUqR4qqOLOxAyr5V8hbyv-60x90.jpg" group-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-title="21",superman
-https://mivalyo.com/stream/3D9gvp4D4T1Yb8-EJw4bxQ/hjkrhuihghfvu/1760381553/30348304/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://new13.savefilm21info.com/wp-content/uploads/2025/12/oD3Eey4e4Z259XLm3eD3WGcoJAh-60x90.jpg" group-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-title="21",now u c me 3
+https://hi3thh5oxxww.acek-cdn.com/hls2/01/07128/wzmsyv7jfpnt_n/master.m3u8?t=ylDSvPy2XmvVMKzhyF9pCyaazMqgTXP865cCTSHmbME&s=1765863693&e=129600&f=35643646&srv=IhRtNEyo46AU6BsV&i=0.4&sp=500&p1=IhRtNEyo46AU6BsV&p2=IhRtNEyo46AU6BsV&asn=4788
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://new13.savefilm21info.com/wp-content/uploads/2025/09/s0Mlo5w4INp3bUdsJo3RaSSMXWz-60x90.jpg" group-logo="http://139.59.9.137/wp-content/uploads/2025/10/cjDAlNKylyqNUpv6nDoFR1YBEAD-60x90.jpg" group-title="21", batman aztech
+https://qdihmnfwepxni.dramiyos-cdn.com/hls2/01/06442/g4e4kctd07hg_n/master.m3u8?t=ax6RDAbxSzgudV7EIHWkkcZuWAkfSXIzlqk7-bjrkr8&s=1765864504&e=129600&f=32213625&srv=VCgmDWaexkLPOOE2&i=0.4&sp=500&p1=VCgmDWaexkLPOOE2&p2=VCgmDWaexkLPOOE2&asn=4788
