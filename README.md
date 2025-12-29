@@ -8,11 +8,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 
 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",TV3 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200329.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"3bc3f0e518aed92e80a98118e5bc2c10": "5fce364fbc4499856597b19a96f44648"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/135.0.7049.99 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
 
 #EXTINF:-1 tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="🎥",109 Awesome
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
