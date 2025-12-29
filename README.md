@@ -12,7 +12,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3bc3f0e518aed92e80a98118e5bc2c10:5fce364fbc4499856597b19a96f44648
-https://get.perfecttv.net/dash2.mpd?username=vip_0new9imx&password=Wm75SsLs&channel=tv3
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400200329.m3u8
 
 #EXTINF:-1 tvg-name="109 Awesome" tvg-logo="https://get.perfecttv.net/logo/awesome.png" group-title="🎥",109 Awesome
 http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/2708.ts
