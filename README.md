@@ -162,8 +162,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Animax.MACAN" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/horre.png" group-title="🎥",HORRE
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 
-
-#=====kids=========
+#EXTINF:-1 group-logo="" group-title="🎥" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,New Kid
+https://newidco-newkid-1-ca.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-logo="" group-title="🎥" tvg-id="611.astro" tvg-logo="https://get.perfecttv.net/logo/ceria2.png" group-logo="" ,205 Ceria
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991341
@@ -403,6 +403,8 @@ https://get.perfecttv.net/mytv.mpd?username=vip_3klp0es8&password=wg3piwEs&chann
 #KODIPROP:inputstream.adaptive.license_key=3ffab3471a994535bdf7fc663792f08b:6e82876474df025c39ae804ba738ff17
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://a.jsrdn.com/hls/23077/scream-tv/logo_20241010_200627_70.png" group-title="🎥", Scream tv
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/scream-tv/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=103416&ads.show_id=3645&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CHorror%2CEnglish&ads.showRating=TV-14&ads.episodeRating=TV-14&ads.language=en&ads.showtitle=Scream%20TV&ads.episodetitle=Scream%20TV&ads.keywords=Scream%2CHorror%2CMovies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209
 
 #EXTINF:-1 tvg-id="401.astro" tvg-logo="httpss://raw.githubusercontent.com/mystery75/logo/main/HitsMoviesV2.png" group-logo="httpss://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="🎥",Hits Movies    
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -709,17 +711,17 @@ https://raw.githubusercontent.com/Iqbalbala/TVINTEK/refs/heads/main/Live.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="sport",LIVE 2
 https://raw.githubusercontent.com/Iqbalbala/TVINTEK/refs/heads/main/Live2.m3u8
 
-#EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/AmcOAIY.png", cine5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/AmcOAIY.png", xite
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="music" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png",vivo
-https://stream.vivotv.uy/hls/stream.m3u8
-#EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/Qu7t15Y.png",dlx dance
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
-#EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/HimuPPb.png",dlx music
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
-#EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/5edYPBO.png",xtra
-https://streaming.social3.hr/ExtraTVudzdhr5/uUankWqpXD/1.m3u8
+#EXTINF:-1 group-title="music" tvg-logo="https://i.ibb.co/Drx6fgZ/Logo-white.png",show champion
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5464
+#EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/Qu7t15Y.png",weekly idol
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5466
+#EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/HimuPPb.png",arirang kpoop
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5468
+#EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/5edYPBO.png",runing man
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5490
 #EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/Ft24x5T.png",mooz ro
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1 group-title="music" tvg-logo="https://i.imgur.com/GwATd3Y.png",mooz hits
@@ -767,9 +769,9 @@ https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",Fashion TV
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2250&live=1&avod=1&app_bundle=__APP_BUNDLE__&did=__DEVICE_ID__&app_category=__APP_CATEGORY__&app_domain=__APP_DOMAIN__&app_name=cinepride&app_store_url=__STORE_URL__&app_version=__APP_VERSION__&cb=__CACHE_BUSTER__&ip=__CLIENT_IP__&ua=__USER_AGENT__&player_height=1080&player_width=1920&is_lat=__LIMIT_AD_TRACKING__&ads.deviceidtype=__DEVICE_ID_TYPE__&ads.gdpr=__IS_GDPR__
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",FTV
-https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/chunklist_b1300000_t64MzYwcA==.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trontv/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22912&ads.content_duration=18000&ads.episode_id=41373&ads.show_id=1220&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CLifestyle%2CTravel%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=TronTV&ads.episodetitle=TronTV&ads.keywords=trontv%2Ctron%20tv&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",KALOOPY
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/c02c9f82-fcc3-4ec2-9fb1-6169ce54e935/0.m3u8
 #EXTINF:-1 tvg-id="701" tvg-name="Fashion TV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/faguoshishang.png" group-title="music",ROUGE
